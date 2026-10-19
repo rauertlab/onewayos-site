@@ -8,7 +8,11 @@ Oneway OS is the business platform of Oneway; the social network is https://onew
 
 - [Oneway OS: Business Management Platform](https://onewayos.com/): Oneway OS runs a business, a community or a place from one operating system: Systems for every industry, a Brain, and its website.
 - [Oneway Asset Management and Maintenance](https://onewayos.com/systems/asset-management): Asset management and maintenance in Oneway OS: a register of every thing, lending, warranties, condition, downtime, work orders and preventive upkeep.
-- [Oneway CRM | Customer Relationship Management](https://onewayos.com/systems/crm): Oneway CRM: every customer&#x27;s whole story from real bookings, visits and messages, with a pipeline, follow-ups, lists, consent and import, in Oneway OS.
+- [Oneway CRM | Customer Relationship Management](https://onewayos.com/systems/crm): Oneway CRM: every customer's whole story from real bookings, visits and messages, with a pipeline, follow-ups, lists, consent and import, in Oneway OS.
 - [Oneway Hotel Operations | Hotel Management System](https://onewayos.com/systems/hotel-operations): Hotel Operations in Oneway OS: rates and the book, the front desk, the night audit, folios and house accounts, housekeeping and traces, on one Center.
-- [Oneway HVAC | Field Service Software for HVAC](https://onewayos.com/systems/hvac): HVAC software in Oneway OS: calls to job tickets, dispatch with arrival windows, the tech&#x27;s day on a phone, equipment history and service agreements.
+- [Oneway HVAC | Field Service Software for HVAC](https://onewayos.com/systems/hvac): HVAC software in Oneway OS: calls to job tickets, dispatch with arrival windows, the tech's day on a phone, equipment history and service agreements.
 - [Oneway Inventory Management](https://onewayos.com/systems/inventory): Inventory management in Oneway OS: stock by place and shelf, counts, par levels, purchase orders and suppliers, in one history tied to the work.
+
+## Optional
+
+- [Every page, in words](https://onewayos.com/llms-full.txt)
