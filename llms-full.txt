@@ -109,7 +109,7 @@ Every thing your business owns, who has it, what it costs, and the work that kee
 
 The base every physical System runs on: Hotel Operations, Restaurant Operations, Property Management, HVAC and more.
 
-Part of Business OS, by contact, in the Closed Selective Server Beta. What is still being built is marked Planned.
+Part of Business OS, by contact, in the Closed Selective Server Beta.
 
 Talk to us
 
@@ -136,7 +136,6 @@ Price, supplier, warranty and useful life; warranties ending in 90 days listed.
 
 A guided audit
 Walked place by place, with what was not found.
-Planned
 
 The register's report, the map of every thing by place, and the work each department does.
 
@@ -160,8 +159,7 @@ Reported once
 Guests, members and staff report from the App and are told when it is fixed.
 
 Sensors feeding meters
-A meter read from the equipment itself.
-Planned
+A meter read from the equipment itself, through its sensors feed.
 
 Cost and condition
 
@@ -183,8 +181,7 @@ A history nobody rewrites
 Every change, who, when and why.
 
 Scheduled reports
-The report exported and sent on a day.
-Planned
+The report sent to the owners in Oneway on its day, and the register as a sheet.
 
 The base
 
@@ -865,8 +862,7 @@ A purchase order by email or PDF.
 Planned
 
 A demand forecast
-When each item will run out at today's pace.
-Planned
+When each item will run out at today's pace, and when to order.
 
 Where it goes
 
