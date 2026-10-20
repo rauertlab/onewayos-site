@@ -46,7 +46,7 @@ Explore Developer OS Developer →
 
 Business OS is $330 a month, set up by contact. Get Oneway OS today
 
-Oneway OS runs a business, a community or a place: its page, website, posts, events and members for free, and with Business OS, the Systems of its industry, its team and the Brain, for $330 a month per Center.
+Oneway OS runs a business, a community or a place: its page, website, posts, events and members for free, and with Business OS, the Systems of its industry, its team and the Brain.
 
 What a Center is
 
@@ -76,33 +76,28 @@ Oneway OS, with sample records.
 
 Systems bring industry and everyday capabilities into a Center. Explore what is available, then connect the tools that fit your operation.
 
-For your kind of place
-Hotel Operations
-Restaurant Operations
-Casino Operations
-Property Management
-HVAC Service Operations
-Community Management
-
-For every Center
-Reservations
-Events
-Scheduling
-Customer Relationships
-Rewards & Membership
-Communications
-People
-Inventory
-Maintenance
-Asset Management
-Marketing
+Customer Relationships Customers and their whole story, deals and pipelines, follow-ups that ring at their hour, companies, saved lists, consent, import and export.
+Inventory Stock by place and shelf, counts by scanning, lots and expiry, orders and deliveries due, recipes and plate cost, sales taking stock.
+Asset Management A register of every thing, lending and returns, warranties, condition and downtime, guided audits, groups and the cost of ownership.
+Maintenance Work orders by priority, requests from the App, preventive upkeep by time and meter, inspections, vendors, parts reserved, hours from the clock.
+Scheduling The week's shifts, open shifts filled by rule, swaps and time off, the time clock, timesheets for payroll, labour against sales.
+Reservations Rooms, tables, courts and spaces booked from the App, booking hours and who may book, the desk's book, idle time offered.
+Rewards & Membership Tiers and benefits, credits earned and redeemed, members and their cards in the App, cards from other programs.
+Community Management Members, requests to join with Admit and Decline, invitations, and who joined this week. Free on Oneway OS.
+Hotel Operations The book and its rates, holds and group blocks, the front desk and folios, house accounts, housekeeping, traces and the night audit.
+Restaurant Operations Tables and the floor, the waitlist, seating and table states, the 86 board.
+Property Management Units and leases, rent posted and paid, late fees, renewals, notices and move-outs.
+Casino Operations Machines and tables on the floor, hand pays, a guest's limits and exclusions.
+HVAC Service Operations Calls and dispatch, the tech's day, equipment history, service agreements, the price book and good, better, best quotes.
+Events Events put on and changed, Going and Maybe in the App, check-in at the door, promotion by other Centers.
+Communications One shared inbox, saved and automatic replies, notes to the team.
+Marketing Offers, one post to every platform with each picture in its shape, and where every record of your business stands.
+People Roles that say what each person may do, and permits reminded before they lapse.
 
 Each System, on its own page
 Oneway CRM Inventory Management Asset Management Hotel Operations HVAC Service Operations
 Each module, on its own page
 Scheduling Reservations Maintenance Communications Marketing Events Team Rewards & Membership
-
-Not built yet: Consulting & Advisory, Agency Operations, Summer Camp Operations, Local Government, News Organization, Service Management, Short-Term Rental Operations, Dental Practice Operations, Mortgage Pipeline, Accounting Firm Client Management, Documents, Finance, Security & Access.
 
 Install the Systems your place needs; each adds its tools to your Center and its Popits to the canvas.
 
@@ -205,7 +200,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
-Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
+Oneway, the Oneway App and Oneway OS are made by Oneway Technologies LLC, New York.
 
 ---
 
@@ -306,7 +301,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
-Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
+Oneway, the Oneway App and Oneway OS are made by Oneway Technologies LLC, New York.
 
 ---
 
@@ -450,7 +445,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
-Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
+Oneway, the Oneway App and Oneway OS are made by Oneway Technologies LLC, New York.
 
 ---
 
@@ -546,7 +541,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
-Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
+Oneway, the Oneway App and Oneway OS are made by Oneway Technologies LLC, New York.
 
 ---
 
@@ -673,7 +668,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
-Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
+Oneway, the Oneway App and Oneway OS are made by Oneway Technologies LLC, New York.
 
 ---
 
@@ -761,7 +756,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
-Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
+Oneway, the Oneway App and Oneway OS are made by Oneway Technologies LLC, New York.
 
 ---
 
@@ -779,6 +774,19 @@ Core System
 Asset Management.
 
 Asset Management tracks every physical thing your business owns: where it is, who has it, what it costs, and the upkeep that keeps it running.
+
+Replaces Asset Panda or Snipe-IT.
+
+And it does what they can't on their own, because every System here shares one set of records.
+
+One physical world under every System
+A hotel's rooms, a casino's machines and a customer's furnace are one register; each industry System adds its own work.
+
+Installed together
+Installing Hotel Operations installs Asset Management, Reservations and Maintenance with it.
+
+Parts with one life
+A part is Inventory's stock until it is installed in a thing, and stays on that thing's record until it is removed.
 
 The base every physical System runs on: Hotel Operations, Restaurant Operations, Property Management, HVAC and more.
 
@@ -809,6 +817,12 @@ Price, supplier, warranty and useful life; warranties ending in 90 days listed.
 
 A guided audit
 Walked place by place, with what was not found.
+
+Your own groups
+The business's own groups of things, each counted; found, registered and reported by group.
+
+Retired, never deleted
+Retiring is asked and decided by a second person; a retired thing keeps its history.
 
 The register's report, the map of every thing by place, and the work each department does.
 
@@ -855,18 +869,6 @@ Every change, who, when and why.
 
 Scheduled reports
 The report sent to the owners in Oneway on its day, and the register as a sheet.
-
-The base
-
-One physical world under every System.
-
-A hotel's rooms, a casino's machines and a customer's furnace are all assets. Each industry System adds its own kinds of things and its own work; the condition, history and upkeep are the same everywhere.
-
-Each industry has its own System
-Its own install, screens and acts, on these assets.
-
-Installed together
-Installing Hotel Operations installs Asset Management, Reservations and Maintenance with it.
 
 How it works
 
@@ -918,7 +920,7 @@ What it is Asset Management tracks every physical thing your business owns: wher
 Part of Oneway OS, as a core system of Business OS.
 Comes with Casino Operations System, Events, Hotel Operations System, Inventory Management, Maintenance, Property Management System, Restaurant Operations System.
 Where it runs In Oneway OS, in a web browser on a computer or a phone.
-Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Price Part of Business OS, set up by contact. See its plan ; Oneway OS alone is free.
 Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
 Made by Oneway Technologies LLC, New York.
 
@@ -947,7 +949,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
-Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
+Oneway, the Oneway App and Oneway OS are made by Oneway Technologies LLC, New York.
 
 ---
 
@@ -1070,7 +1072,7 @@ Oneway Communications, in facts.
 What it is Oneway Communications puts every message to your business in one shared inbox, answers the routine ones by rule, and tells your team what it needs to know.
 Part of Oneway OS, as a module of Business OS.
 Where it runs In Oneway OS, in a web browser on a computer or a phone.
-Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Price Part of Business OS, set up by contact. See its plan ; Oneway OS alone is free.
 Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
 Made by Oneway Technologies LLC, New York.
 
@@ -1099,7 +1101,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
-Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
+Oneway, the Oneway App and Oneway OS are made by Oneway Technologies LLC, New York.
 
 ---
 
@@ -1117,6 +1119,19 @@ Core System
 Oneway CRM.
 
 Oneway CRM keeps every customer's whole story, from their real bookings, visits and messages, so your team knows who they are and what to do next.
+
+Replaces HubSpot or Pipedrive.
+
+And it does what they can't on their own, because every System here shares one set of records.
+
+Fed by the business
+Bookings, stays, orders, rewards and messages land on the customer by themselves. Nobody types a history in.
+
+One customer for every System
+An HVAC caller, a web form's answer and a Shop order are the same record, never a second list.
+
+Their own profile, live
+A customer on Oneway keeps their name and face current themselves.
 
 Part of Business OS, by contact, in the Closed Selective Server Beta. What is still being built is marked Planned.
 
@@ -1139,15 +1154,23 @@ Words, numbers, dates and lists of your own, filtered and exported.
 Consent, said once
 Email, texts and calls each agreed or refused. Do-not-contact stops every campaign and audience.
 
+Private by default
+Staff see customers only when their role works with them. Strangers see nothing.
+
 Joined on evidence
 Two records become one only on a confirmed address or id, never on a name.
 
 Duplicates merged
 Found by email, phone or name and merged by an owner, with every deal carried over.
 
+Change many at once
+A tag, an owner or do-not-contact for a whole selection, each record keeping the change.
+
+Companies, each with its own page
+People under their company or household, with its deals, follow-ups and one timeline.
+
 Auto-tags by rule
-Regulars and big spenders tagged from what they did.
-Planned
+Regulars, big spenders and lapsed guests tagged from what they did here, kept true every hour.
 
 Each customer's record: the timeline, the deals, the follow-ups and their consent.
 
@@ -1155,7 +1178,7 @@ Pipeline
 
 From the first message to the signed deal.
 
-Deals at six stages, each with its chance to close and what it is worth.
+Deals at stages named your way, a pipeline per kind of sale, each stage with its chance to close.
 
 Deals and stages
 Lead, qualified, proposal, negotiation, won and lost, with value and weighted value.
@@ -1170,12 +1193,10 @@ Leads from your own book
 People who booked with their account and are not on your list, made customers in one press.
 
 Your own stages and several pipelines
-Stages named your way, a pipeline per kind of sale.
-Planned
+Stages named your way, a pipeline per kind of sale, one board each.
 
 A reminder at the hour
-A follow-up that rings when it is due.
-Planned
+A follow-up rings for its person when it is due, once, in Notifications.
 
 Lists and data
 
@@ -1198,23 +1219,7 @@ Sequences, templates and tracking.
 Planned
 
 Web forms
-Your site's forms making contacts.
-Planned
-
-The difference
-
-A CRM that does not need feeding.
-
-Most CRMs are only as good as what someone types in. Oneway CRM is fed by the business itself.
-
-Part of the business
-Reservations, rewards, orders and messages write to the same customer. Nothing to sync.
-
-Their own profile, live
-A customer on Oneway keeps their name and face current themselves.
-
-Private by default
-Staff see customers only when their role works with them. Strangers see nothing.
+A form on its own page and on your site; each answer a customer, tagged, with a follow-up.
 
 How it works
 
@@ -1262,7 +1267,7 @@ What it is Oneway CRM keeps every customer's whole story, from their real bookin
 Part of Oneway OS, as a core system of Business OS.
 Comes with Casino Operations System, Hotel Operations System, Restaurant Operations System.
 Where it runs In Oneway OS, in a web browser on a computer or a phone.
-Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Price Part of Business OS, set up by contact. See its plan ; Oneway OS alone is free.
 Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
 Made by Oneway Technologies LLC, New York.
 
@@ -1291,7 +1296,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
-Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
+Oneway, the Oneway App and Oneway OS are made by Oneway Technologies LLC, New York.
 
 ---
 
@@ -1415,7 +1420,7 @@ Oneway Events, in facts.
 What it is Oneway Events puts your events on, lets people answer Going or Maybe in the Oneway App, and checks your guests in at the door.
 Part of Oneway OS, as a module of Business OS.
 Where it runs In Oneway OS, in a web browser on a computer or a phone.
-Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Price Part of Business OS, set up by contact. See its plan ; Oneway OS alone is free.
 Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
 Made by Oneway Technologies LLC, New York.
 
@@ -1444,7 +1449,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
-Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
+Oneway, the Oneway App and Oneway OS are made by Oneway Technologies LLC, New York.
 
 ---
 
@@ -1552,6 +1557,9 @@ Taken out of sale with its reason, and returned to service.
 Traces
 A note about a stay for a department on a day, marked done.
 
+A guest reported
+What happened, to whom and where, handed to the department that answers it.
+
 Runs on Asset Management
 
 Every room is an asset.
@@ -1614,7 +1622,7 @@ What it is Hotel Operations runs a hotel's rooms, rates and guests from one plac
 Part of Oneway OS, as a industry system of Business OS.
 Runs on, and brings Asset Management, Reservations System, Maintenance, Customer Relationships.
 Where it runs In Oneway OS, in a web browser on a computer or a phone.
-Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Price Part of Business OS, set up by contact. See its plan ; Oneway OS alone is free.
 Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
 Made by Oneway Technologies LLC, New York.
 
@@ -1643,7 +1651,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
-Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
+Oneway, the Oneway App and Oneway OS are made by Oneway Technologies LLC, New York.
 
 ---
 
@@ -1661,6 +1669,19 @@ Industry System
 HVAC Service Operations.
 
 Oneway HVAC runs a heating and cooling company's calls, technicians and jobs, from the first call to the finished job, with every unit's history and service agreement.
+
+Replaces ServiceTitan or Housecall Pro.
+
+And it does what they can't on their own, because every System here shares one set of records.
+
+Every furnace is an asset
+Each customer's unit, and the shop's own trucks and tools, keep their history, condition and upkeep in one register.
+
+Sent by the schedule's rules
+The suggested tech is the first one on shift and free for the window, read from Scheduling.
+
+One customer
+A caller is the Center's one customer record, the same one the CRM keeps.
 
 Part of Business OS, by contact, in the Closed Selective Server Beta. What is still being built is marked Planned.
 
@@ -1683,6 +1704,9 @@ One to four hours on your own clock; moved, and the tech moves with it.
 
 Send a tech
 Told on their phone at once; their shift and other jobs checked first.
+
+The suggested tech
+The first technician free for the window, on shift, sent in one press by the schedule's rules.
 
 The dispatch board
 Each tech's shift and jobs in order, and the jobs still waiting.
@@ -1710,12 +1734,13 @@ Estimates and invoice amounts
 Recorded on the job; Oneway never charges a card.
 
 On my way
-The customer told the tech is coming.
-Planned
+The tech's step from the phone; the board says On the way, and the customer is told in the App.
 
 A price book
-Line items, and good-better-best options.
-Planned
+Line items, and good, better and best options chosen on the job, becoming its estimate and invoice lines.
+
+Follow-ups
+A day and what for, on the board when it comes due.
 
 Equipment and agreements
 
@@ -1739,18 +1764,6 @@ Agreements ending in 60 days listed, renewed from the day the old one ends.
 Recurring billing
 Agreements billed on their own.
 Planned
-
-Runs on Asset Management
-
-Every furnace is an asset.
-
-HVAC Service Operations is its own System with its own install and screens. Each customer's unit is an asset, so its history, condition and upkeep are kept the way every physical thing on Oneway is.
-
-The shop's own things too
-Trucks, tools and parts in the same register.
-
-Brings what a service company needs
-Service Management, Maintenance and Asset Management come with it.
 
 How it works
 
@@ -1800,7 +1813,7 @@ What it is Oneway HVAC runs a heating and cooling company's calls, technicians a
 Part of Oneway OS, as a industry system of Business OS.
 Runs on, and brings Asset Management, Maintenance.
 Where it runs In Oneway OS, in a web browser on a computer or a phone.
-Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Price Part of Business OS, set up by contact. See its plan ; Oneway OS alone is free.
 Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
 Made by Oneway Technologies LLC, New York.
 
@@ -1829,7 +1842,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
-Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
+Oneway, the Oneway App and Oneway OS are made by Oneway Technologies LLC, New York.
 
 ---
 
@@ -1847,6 +1860,19 @@ Core System
 Inventory Management.
 
 Oneway Inventory tracks stock levels, orders, sales and deliveries across your supply chain, so your business has the right amount of goods in the right place at the right time.
+
+Replaces MarketMan or Restaurant365.
+
+And it does what they can't on their own, because every System here shares one set of records.
+
+A dish sold takes its ingredients
+A dish rung up at the register takes each of its ingredients off the shelf, costed from the invoices.
+
+A repair takes its parts
+Parts are held for the work order and taken when it is done; their cost lands on the repair and on the thing it fixed.
+
+Every item is a thing you own
+Stock lives in Asset Management's register, on the same map as everything else.
 
 Part of Business OS, by contact, in the Closed Selective Server Beta. What is still being built is marked Planned.
 
@@ -1874,14 +1900,19 @@ One history
 Every change kept for good; on hand is never typed over.
 
 Lots and expiry
-Each delivery's lot and the day it expires.
-Planned
+Each delivery's lot and the day it expires; the soonest used first, what expires this week said.
+
+A count sheet, by scanning
+A whole place counted on one screen, a scanner or the phone's camera adding each one; labels printed.
 
 Every item is one of the business's things: on the map by place, with its own history.
 
 Orders and deliveries
 
 Ordered before it runs out, received as it comes.
+
+Par and reorder points
+Per place or for the whole business; owners told once when it runs low.
 
 A demand forecast
 When each item will run out at today's pace, and when to order.
@@ -1899,8 +1930,7 @@ Suppliers measured
 Their stated lead time beside the real one, fill rate and on-time count.
 
 Deliveries due and late
-The day each delivery is expected, and the ones that are late.
-Planned
+Each order due from its supplier's days; the late ones first, in the room's Now.
 
 Sending orders to suppliers
 A purchase order by email or PDF.
@@ -1924,8 +1954,10 @@ Shopify POS, Clover, Toast and Lightspeed sales taking stock.
 Planned
 
 Recipes and plate cost
-What a dish uses, and what it costs to make.
-Planned
+A dish sold takes its ingredients; its cost from the invoices, its food cost against its price.
+
+Products for sale
+An item offered in the Shop and the App, hidden until a person publishes it.
 
 Across places
 
@@ -1940,27 +1972,18 @@ Sent to another property of the same business, found there by its SKU.
 Every property at once
 On hand, low items and open orders for each property, side by side.
 
+Stock per place, and what to move
+Each item by place, and a move offered where one place is short and another has more.
+
 Parts on a work order
 Their cost lands on the repair, and on the thing it fixed.
 
-Suggested transfers
+Parts installed in things
+A part's one life: in stock, installed, removed, repaired or disposed of.
+
+Transfers suggested across properties
 Stock one property has to spare, offered where another runs low.
 Planned
-
-The difference
-
-One stock for the whole business.
-
-Kitchen tools count the kitchen; maintenance tools count parts. Here every department writes to one history.
-
-Tied to the work
-A part used on a repair is on that repair, and on the thing it fixed.
-
-Tied to the customer
-What is out reaches the Shop and the App, not only the storeroom.
-
-Every item is a thing you own
-Stock lives in Asset Management's register, on the same map.
 
 How it works
 
@@ -2001,7 +2024,7 @@ Oneway Inventory Management, in facts.
 What it is Oneway Inventory tracks stock levels, orders, sales and deliveries across your supply chain, so your business has the right amount of goods in the right place at the right time.
 Part of Oneway OS, as a core system of Business OS.
 Where it runs In Oneway OS, in a web browser on a computer or a phone.
-Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Price Part of Business OS, set up by contact. See its plan ; Oneway OS alone is free.
 Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
 Made by Oneway Technologies LLC, New York.
 
@@ -2030,7 +2053,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
-Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
+Oneway, the Oneway App and Oneway OS are made by Oneway Technologies LLC, New York.
 
 ---
 
@@ -2048,6 +2071,19 @@ Module
 Maintenance.
 
 Oneway Maintenance turns every problem anyone reports into a work order, keeps preventive upkeep on schedule, and shows what each repair cost.
+
+Replaces UpKeep or Limble.
+
+And it does what they can't on their own, because every System here shares one set of records.
+
+Work on the things you own
+Work lands on Asset Management's register: each thing's downtime and cost of ownership.
+
+Requests from the App
+Guests and members report a problem, with a picture, where they already are.
+
+One shelf, one repair
+Parts are held on Inventory's shelf for the job and taken when it is done, never listed twice.
 
 Part of Business OS, by contact, in the Closed Selective Server Beta.
 
@@ -2103,7 +2139,10 @@ The technician's phone
 Their work, Start and Done, what fixed it, hours and pictures, offline steps kept.
 
 Vendors
-Sent with a not-to-exceed, accepted or declined, done with its cost.
+Sent with a not-to-exceed and a private link to the job, accepted or declined, done with its cost.
+
+Parts reserved before the job
+Held in Inventory for the work order, used when it is done, let go if it is cancelled.
 
 Parts from Inventory
 Parts used come off the shelf, their cost on the repair.
@@ -2112,22 +2151,10 @@ Escalation
 Work nobody takes is raised, by rules the Center sets.
 
 Hours from the clock
-Done fills the hours from its Start, to the quarter hour, unless hours are said.
+Done fills the hours from its Start, to the quarter hour, unless hours are said; on hold, the clock pauses.
 
-The difference
-
-Maintenance on the same map as everything.
-
-A maintenance app keeps its own list of equipment. Here work lands on the Center's own things.
-
-Every thing is a thing you own
-Work lands on Asset Management's register: downtime and cost of ownership per thing.
-
-Requests from the App
-Guests and members report a problem where they already are.
-
-Parts from Inventory
-The shelf and the repair are one history.
+Why it broke
+Said when the work is done, kept on the thing's upkeep and counted in the report.
 
 How it works
 
@@ -2174,7 +2201,7 @@ What it is Oneway Maintenance turns every problem anyone reports into a work ord
 Part of Oneway OS, as a module of Business OS.
 Comes with Hotel Operations System, Property Management System.
 Where it runs In Oneway OS, in a web browser on a computer or a phone.
-Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Price Part of Business OS, set up by contact. See its plan ; Oneway OS alone is free.
 Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
 Made by Oneway Technologies LLC, New York.
 
@@ -2203,7 +2230,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
-Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
+Oneway, the Oneway App and Oneway OS are made by Oneway Technologies LLC, New York.
 
 ---
 
@@ -2258,6 +2285,9 @@ Put on once, shown in the App, on the web and wherever it is promoted.
 
 One picture, every shape
 A photograph cut for the App, stories, Instagram, Facebook, links, Google and email.
+
+One post, everywhere
+Written once, on the App and the web and each platform the Center has connected, each in its own shape.
 
 Email campaigns
 An offer sent to a list of customers.
@@ -2328,7 +2358,7 @@ What it is Oneway Marketing makes your offers and events, shapes each picture fo
 Part of Oneway OS, as a module of Business OS.
 Comes with Casino Operations System, Events, Restaurant Operations System.
 Where it runs In Oneway OS, in a web browser on a computer or a phone.
-Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Price Part of Business OS, set up by contact. See its plan ; Oneway OS alone is free.
 Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
 Made by Oneway Technologies LLC, New York.
 
@@ -2357,7 +2387,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
-Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
+Oneway, the Oneway App and Oneway OS are made by Oneway Technologies LLC, New York.
 
 ---
 
@@ -2392,6 +2422,9 @@ A room, a table, a court, a boat or a space: any of the Center's things takes bo
 Its hours
 When each one takes bookings, day by day.
 
+Who may book
+Anyone, or only the Center's members, thing by thing.
+
 Availability
 What is free and when, read before anyone books.
 
@@ -2416,6 +2449,9 @@ The day's bookings, waiting on you and from today on.
 
 Confirm, check in, check out
 The desk moves each booking through its day.
+
+Booked and changed by the desk
+A booking made for a guest; its time, party size or table changed, never onto one already held.
 
 Deposits and cards on file
 A deposit taken when the booking is made.
@@ -2497,7 +2533,7 @@ What it is Oneway Reservations lets people book the things your place offers, a 
 Part of Oneway OS, as a module of Business OS.
 Comes with Casino Operations System, Events, Hotel Operations System, Property Management System, Restaurant Operations System.
 Where it runs In Oneway OS, in a web browser on a computer or a phone.
-Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Price Part of Business OS, set up by contact. See its plan ; Oneway OS alone is free.
 Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
 Made by Oneway Technologies LLC, New York.
 
@@ -2526,7 +2562,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
-Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
+Oneway, the Oneway App and Oneway OS are made by Oneway Technologies LLC, New York.
 
 ---
 
@@ -2587,6 +2623,9 @@ A member links the card they already hold; a provider's export confirms it.
 
 Recognized elsewhere
 Whose standing this Center honours, and as what.
+
+Beside a casino's own program
+Where a casino's own system runs the program, Oneway notes what it reports and does nothing itself.
 
 Offers to a tier
 An offer addressed to members of one tier.
@@ -2651,7 +2690,7 @@ What it is Oneway Rewards runs your loyalty program: members earn credits for wh
 Part of Oneway OS, as a module of Business OS.
 Comes with Casino Operations System.
 Where it runs In Oneway OS, in a web browser on a computer or a phone.
-Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Price Part of Business OS, set up by contact. See its plan ; Oneway OS alone is free.
 Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
 Made by Oneway Technologies LLC, New York.
 
@@ -2680,7 +2719,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
-Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
+Oneway, the Oneway App and Oneway OS are made by Oneway Technologies LLC, New York.
 
 ---
 
@@ -2699,7 +2738,20 @@ Scheduling.
 
 Oneway Scheduling builds your team's week of shifts, lets people claim, swap and take time off, and keeps the clock and the cost of every hour.
 
-Part of Business OS, by contact, in the Closed Selective Server Beta. What is still being built is marked Planned.
+Replaces 7shifts or Homebase.
+
+And it does what they can't on their own, because every System here shares one set of records.
+
+From the book
+How many people a day needs, read from its own bookings and events.
+
+Against the sales
+Labour weighed against the sales your registers already report to Oneway.
+
+One team
+The same people the Center's roles and permits name, never a second list.
+
+Part of Business OS, by contact, in the Closed Selective Server Beta.
 
 Talk to us
 
@@ -2725,8 +2777,10 @@ Copy last week
 A week's shifts copied into the next as drafts, never twice.
 
 Shift reminders
-A reminder before each published shift.
-Planned
+Each person reminded once in the two hours before a published shift.
+
+Open shifts filled by rule
+Each open shift offered to the first person free, rested, available and under overtime.
 
 The week, shift by shift: who has it, or nobody yet.
 
@@ -2735,7 +2789,10 @@ The team
 Swaps and time off, decided by a manager.
 
 Offer and swap
-A shift offered to the team, taken or swapped, the change decided once.
+A shift offered to the team, taken or swapped, the change decided once by a manager.
+
+Cancel a shift
+A published shift cancelled, its person told.
 
 Time off
 Asked for, decided, and kept out of the schedule.
@@ -2762,31 +2819,14 @@ An hourly rate per person from the day it starts, kept by an owner.
 Labour against sales
 The day's and the week's labour cost, and its share of sales.
 
-Staffing from the book
-How many people a day's bookings and events need, beside who is scheduled.
+Staffing from the book and the sales
+How many people a day's bookings, events and forecast sales need, beside who is scheduled.
 
 Timesheets out for payroll
-Hours, rate and cost per person, as a sheet for the payroll provider.
-Planned
+Hours, overtime, rate and cost per person, as a sheet for the payroll provider.
 
 Clock-in at the place
-A clock-in only where the work is.
-Planned
-
-The difference
-
-The schedule knows the work.
-
-A scheduling app knows shifts. Here the week sits beside the bookings, events and sales it serves.
-
-From the book
-The staffing need is read from the day's bookings and events.
-
-Against the sales
-Labour is weighed against the sales the Center's points of sale report.
-
-One team
-The same people the Center's roles and permits name, never a second list.
+Where an owner asks for it, a clock-in only near the place; the location never kept.
 
 How it works
 
@@ -2827,7 +2867,7 @@ Oneway Scheduling, in facts.
 What it is Oneway Scheduling builds your team's week of shifts, lets people claim, swap and take time off, and keeps the clock and the cost of every hour.
 Part of Oneway OS, as a module of Business OS.
 Where it runs In Oneway OS, in a web browser on a computer or a phone.
-Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Price Part of Business OS, set up by contact. See its plan ; Oneway OS alone is free.
 Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
 Made by Oneway Technologies LLC, New York.
 
@@ -2856,7 +2896,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
-Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
+Oneway, the Oneway App and Oneway OS are made by Oneway Technologies LLC, New York.
 
 ---
 
@@ -2978,7 +3018,7 @@ Oneway Team, in facts.
 What it is Oneway Team keeps who works at your business, what each of them may see and do, and every permit and license before it lapses.
 Part of Oneway OS, as a module of Business OS.
 Where it runs In Oneway OS, in a web browser on a computer or a phone.
-Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Price Part of Business OS, set up by contact. See its plan ; Oneway OS alone is free.
 Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
 Made by Oneway Technologies LLC, New York.
 
@@ -3007,5 +3047,5 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
-Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
+Oneway, the Oneway App and Oneway OS are made by Oneway Technologies LLC, New York.
 
