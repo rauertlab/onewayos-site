@@ -1951,7 +1951,7 @@ Maintenance.
 
 Oneway Maintenance turns every problem anyone reports into a work order, keeps preventive upkeep on schedule, and shows what each repair cost.
 
-Part of Business OS, by contact, in the Closed Selective Server Beta. What is still being built is marked Planned.
+Part of Business OS, by contact, in the Closed Selective Server Beta.
 
 Talk to us
 
@@ -1976,9 +1976,8 @@ To do, started and on hold, moved by hand.
 Requests
 Reported from the Oneway App by guests, members and staff, with a picture, each answer told.
 
-A checklist on the job
-Steps ticked on the phone before a repair is done.
-Planned
+Steps on the job
+A checklist's steps on the work order, ticked, and Done refused while one is left.
 
 The work as a board: to do, started, on hold.
 
@@ -2014,9 +2013,8 @@ Parts used come off the shelf, their cost on the repair.
 Escalation
 Work nobody takes is raised, by rules the Center sets.
 
-A timer on the job
-Labour time started and stopped on the phone.
-Planned
+Hours from the clock
+Done fills the hours from its Start, to the quarter hour, unless hours are said.
 
 The difference
 
@@ -2574,8 +2572,7 @@ Availability
 Each person says when they can work.
 
 Copy last week
-A week's shifts copied as drafts, the warnings read again.
-Planned
+A week's shifts copied into the next as drafts, never twice.
 
 Shift reminders
 A reminder before each published shift.
