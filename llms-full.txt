@@ -8,66 +8,174 @@
 
 Source: https://onewayos.com/
 
-Our Mission App OS Security Contact
+Our Mission
+App
+OS
+Security
+Contact
 
 Sign in
+OS
 
 OS
 
-Oneway OS.
+Connect your casino in one place.
 
-Run a business, a community or a place from one operating system: its Systems, its Brain and its website.
+Open Oneway OS →
+View Systems
 
-Business OS is available by contact in the Closed Selective Server Beta, starting in New York City.
+Business OS
 
-Talk to us
+Run your people, Systems and daily work from one Center. Run your whole operation.
 
-Systems
+Explore Business OS Business →
 
-One System for each part of the work.
+Oneway OS
 
-Core Systems every business uses, and industry Systems that bring them along.
+Create a Center for your community or an information page. Create a community Center.
 
-Core Systems
-Customers, stock, assets and upkeep, bookings, staff schedules and messages.
+Open Oneway OS Oneway →
 
-Industry Systems
-Hotels, restaurants, casinos, property, HVAC and more, each installing the core Systems it needs.
+Developer OS
 
-One record each
-A customer, a room or a part is one record every System reads.
+Build apps, modules and integrations for Centers. Build for the ecosystem.
 
-Oneway CRM
-Oneway Inventory Management
-Oneway Asset Management
-Oneway Hotel Operations
-Oneway HVAC Service Operations
+Explore Developer OS Developer →
 
-The Brain
+Business OS is $330 a month, set up by contact. Get Oneway OS today
 
-It reads the whole business, and asks before it acts.
+What a Center is
 
-Recommends
-What needs a person now, from every System's records.
+A Center is whatever your place needs it to be.
 
-A person decides
-Nothing it proposes happens until someone with the role says yes.
+A Center can be:
 
-Websites
+an information page for a place, a landmark or what locals know
 
-Your site, designed from boxes at the side.
+a social profile with posts and followers, the way Instagram works
 
-Fifteen layouts
-Tried live at a PC's width and a phone's before anything changes.
+your business's website, on your own domain
 
-Width, spacing, type and corners
-Each one press; kept only when you keep it.
+a community's home, with members, groups, chat and events
 
-The same Center in the App
-The people who follow you see the same place.
+a storefront that takes orders and bookings
 
-Run it from one place.
-Talk to us The Oneway App
+the workspace your team runs the business from
+
+Whichever it is, its page is a canvas its team lays out in Oneway OS, Popit by Popit.
+
+System Store
+
+Everything your Center needs.
+
+Oneway OS, with sample records.
+
+Systems bring industry and everyday capabilities into a Center. Explore what is available, then connect the tools that fit your operation.
+
+For your kind of place
+Hotel Operations
+Restaurant Operations
+Casino Operations
+Property Management
+HVAC Service Operations
+Community Management
+
+For every Center
+Reservations
+Events
+Scheduling
+Customer Relationships
+Rewards & Membership
+Communications
+People
+Inventory
+Maintenance
+Asset Management
+Marketing
+
+Each System, on its own page
+Oneway CRM Inventory Management Asset Management Hotel Operations HVAC Service Operations
+
+Not built yet: Consulting & Advisory, Agency Operations, Summer Camp Operations, Local Government, News Organization, Service Management, Short-Term Rental Operations, Dental Practice Operations, Mortgage Pipeline, Accounting Firm Client Management, Documents, Finance, Security & Access.
+
+Install the Systems your place needs; each adds its tools to your Center and its Popits to the canvas.
+
+Business OS vs. the stack
+
+Seven apps, or one Center.
+
+7 separate apps, or one Center on one login
+
+Most businesses run on a pile of separate tools that never talk to each other. Business OS puts them in one Center, on one login.
+
+Instead of On Business OS
+
+A website builder Wix, Squarespace Your Center itself, as its website
+
+A booking app Calendly, OpenTable Bookings and reservations, in the same Center people follow
+
+An online store Shopify, Square Online A shop beside everything else the place does
+
+A customer list HubSpot, Mailchimp Customers kept from every visit, order and message
+
+A social media scheduler Hootsuite, Later Posts that go to the platforms you connect, from one place
+
+A team chat and staff app Slack, Homebase Staff, roles and every message in one inbox
+
+A link-in-bio page Linktree One Center that people follow, with everything on it
+
+Add up your own stack: tick each tool you pay for and type what it costs you a month.
+
+Your stack: $0 a month
+
+Your stack costs a month more than Business OS.
+
+Your numbers stay in your browser.
+
+The names are examples of each kind of tool, and none of them has any affiliation with Oneway.
+
+Compatibility & the Brain
+
+Bring everything you use into one place.
+
+On Business OS, the Brain sits under your Center. It connects the platforms and tools you already use, the Systems you install route back through it, and the whole operation moves as one.
+
+Center →
+Brain →
+System Store →
+Installed Systems →
+Team · website · operations
+
+How a Center grows
+
+Start as a community. Grow into an operation.
+
+4 stages, from a community to an enterprise
+
+Stage 1
+Community
+Members, channels, events, and shared resources.
+
+Stage 2
+Connected
++ a public website, public intake, and Brain.
+
+Stage 3
+Operational
++ installed Systems and staff.
+
+Stage 4
+Enterprise
++ multiple Systems, departments, and advanced Brain.
+
+Build your Center on Oneway OS.
+
+Open Oneway OS →
+Create your account
+
+Built for communities, organizations, businesses and places.
+
+Oneway OS has its own site, with every System: onewayos.com
 
 Our Mission
 App
@@ -82,6 +190,8 @@ Safety
 Community Guidelines
 Accessibility
 Glossary
+
+Oneway Arcade
 
 Privacy
 Terms
@@ -253,6 +363,8 @@ Safety
 Community Guidelines
 Accessibility
 Glossary
+
+Oneway Arcade
 
 Privacy
 Terms
@@ -430,6 +542,8 @@ Safety
 Community Guidelines
 Accessibility
 Glossary
+
+Oneway Arcade
 
 Privacy
 Terms
@@ -615,6 +729,8 @@ Community Guidelines
 Accessibility
 Glossary
 
+Oneway Arcade
+
 Privacy
 Terms
 Data Deletion
@@ -786,6 +902,8 @@ Community Guidelines
 Accessibility
 Glossary
 
+Oneway Arcade
+
 Privacy
 Terms
 Data Deletion
@@ -951,6 +1069,8 @@ Safety
 Community Guidelines
 Accessibility
 Glossary
+
+Oneway Arcade
 
 Privacy
 Terms
