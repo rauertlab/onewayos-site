@@ -95,6 +95,8 @@ Marketing
 
 Each System, on its own page
 Oneway CRM Inventory Management Asset Management Hotel Operations HVAC Service Operations
+Each module, on its own page
+Scheduling Reservations Maintenance Communications Marketing Events Team Rewards & Membership
 
 Not built yet: Consulting & Advisory, Agency Operations, Summer Camp Operations, Local Government, News Organization, Service Management, Short-Term Rental Operations, Dental Practice Operations, Mortgage Pipeline, Accounting Firm Client Management, Documents, Finance, Security & Access.
 
@@ -891,14 +893,154 @@ Equipment, rooms and vehicles.
 Comes with these Systems
 
 Casino Operations System
-Events
+Oneway Events
 Oneway Hotel Operations
 Oneway Inventory Management
-Maintenance
+Oneway Maintenance
 Property Management System
 Restaurant Operations System
 
 Know every thing you own.
+Talk to us Business OS
+
+Our Mission
+App
+OS
+Business OS
+Developer OS
+Security
+Contact
+
+Support
+Safety
+Community Guidelines
+Accessibility
+Glossary
+
+Oneway Arcade
+
+Privacy
+Terms
+Data Deletion
+Corporate Charter
+
+2027, Oneway Technologies LLC
+
+---
+
+## Oneway Communications
+
+Source: https://onewayos.com/systems/communications
+
+Our Mission App OS Security Contact
+
+Sign in
+
+Oneway OS › Business OS › Communications
+Module
+
+Communications.
+
+Oneway Communications puts every message to your business in one shared inbox, answers the routine ones by rule, and tells your team what it needs to know.
+
+Part of Business OS, by contact, in the Closed Selective Server Beta. What is still being built is marked Planned.
+
+Talk to us
+
+Communications in Oneway OS, with sample records.
+
+The inbox
+
+Every conversation, one inbox.
+
+One shared inbox
+Every conversation people start with the business in the Oneway App.
+
+Who has the line
+Assigned to a person, escalated with a reason, concluded with its outcome.
+
+Saved replies
+The business's own answers, by name, one press away.
+
+Automatic replies
+A greeting, an away message and the business's own questions, sent by rule.
+
+Other channels
+SMS, WhatsApp, email, Instagram and Messenger in the same inbox.
+Planned
+
+Translation
+A message read and answered in the guest's language.
+Planned
+
+Notes to the team, and who they reached.
+
+The team
+
+What the team needs to know, once.
+
+Tell the team
+A note to everyone, or to one department, and who it reached.
+
+In each person's day
+A line handed to someone reaches their day in the Oneway App.
+
+A message to every guest in the house
+One message to everyone staying, or to a group.
+Planned
+
+Messages scheduled across a stay
+Before arrival, during and after, sent on their day.
+Planned
+
+The difference
+
+The inbox knows the customer.
+
+An inbox tool sees messages. Here each line sits beside the customer's bookings and history.
+
+Beside the CRM
+Who is writing, and what they have booked, next to what they wrote.
+
+Your rules, your words
+Automatic replies say only what the business wrote.
+
+One team
+Assigned to the people the Center's roles name.
+
+How it works
+
+From a message to an answer.
+
+It arrives
+In one inbox, from the App.
+
+Routine is answered
+By the business's own rules.
+
+The rest is handed on
+To a person, told in their day.
+
+It is concluded
+With its outcome, kept.
+
+Who it is for
+
+Any business people write to.
+
+Hotels
+Guests before, during and after a stay.
+
+Restaurants
+Bookings, questions and parties.
+
+Venues
+Tickets, guest lists and the night.
+
+Communities
+Members and their questions.
+
+Every message answered.
 Talk to us Business OS
 
 Our Mission
@@ -1105,6 +1247,147 @@ Corporate Charter
 
 ---
 
+## Oneway Events
+
+Source: https://onewayos.com/systems/events
+
+Our Mission App OS Security Contact
+
+Sign in
+
+Oneway OS › Business OS › Events
+Module
+
+Events.
+
+Oneway Events puts your events on, lets people answer Going or Maybe in the Oneway App, and checks your guests in at the door.
+
+Part of Business OS, by contact, in the Closed Selective Server Beta. What is still being built is marked Planned.
+
+Talk to us
+
+Events in Oneway OS, with sample records.
+
+Putting it on
+
+An event, from a draft to the night.
+
+A draft until it is out
+Made, then published, started, ended or cancelled.
+
+Changed in place
+Its title, times, place and words, changed where it stands.
+
+Tickets capped
+As many places as it holds, and no more.
+
+Paid tickets
+Tickets sold and paid for in the App.
+Planned
+
+At the door: who is here, of who is coming.
+
+The people
+
+Who is going, before anyone arrives.
+
+Going and Maybe
+People answer in the Oneway App, and see how many are going.
+
+Attendance
+Who answered, read by the organiser.
+
+At the door
+Each guest checked in with one press, or undone.
+
+Here, of coming
+How many are here of how many said they were coming.
+
+Reach
+
+Shown by more than one place.
+
+Promoted by other Centers
+The owner lets another Center promote or show the event, or opens it to all.
+
+Where it went
+Each destination the event reached, and what each one said.
+
+The difference
+
+The event lives where people already are.
+
+An event tool sells tickets on a page. Here the event is in the App people already use, with its place.
+
+Found in the App
+On the Center's page, the map and the feeds of people who follow it.
+
+Promoted by neighbours
+Other Centers carry it, with the owner's say.
+
+Counted at the door
+Who came, of who said they would.
+
+How it works
+
+From a draft to the door.
+
+Put it on
+A draft, then published.
+
+People answer
+Going or Maybe, in the App.
+
+It travels
+Promoted by other Centers.
+
+The door
+Each guest checked in.
+
+Who it is for
+
+Anyone who puts something on.
+
+Venues and clubs
+Every night of the week.
+
+Hotels and restaurants
+Dinners, music and holidays.
+
+Communities
+Meetings, classes and festivals.
+
+Organizations
+Members' events.
+
+Put it on. See who comes.
+Talk to us Business OS
+
+Our Mission
+App
+OS
+Business OS
+Developer OS
+Security
+Contact
+
+Support
+Safety
+Community Guidelines
+Accessibility
+Glossary
+
+Oneway Arcade
+
+Privacy
+Terms
+Data Deletion
+Corporate Charter
+
+2027, Oneway Technologies LLC
+
+---
+
 ## Oneway Hotel Operations
 
 Source: https://onewayos.com/systems/hotel-operations
@@ -1259,8 +1542,8 @@ Oneway Asset Management
 
 Brings with it
 
-Reservations System
-Maintenance
+Oneway Reservations
+Oneway Maintenance
 Oneway CRM
 
 Run your hotel from one place.
@@ -1434,7 +1717,7 @@ Oneway Asset Management
 
 Brings with it
 
-Maintenance
+Oneway Maintenance
 
 Run your service company from one place.
 Talk to us Business OS
@@ -1626,6 +1909,910 @@ Service companies
 The parts every truck carries.
 
 The right goods, in the right place, at the right time.
+Talk to us Business OS
+
+Our Mission
+App
+OS
+Business OS
+Developer OS
+Security
+Contact
+
+Support
+Safety
+Community Guidelines
+Accessibility
+Glossary
+
+Oneway Arcade
+
+Privacy
+Terms
+Data Deletion
+Corporate Charter
+
+2027, Oneway Technologies LLC
+
+---
+
+## Oneway Maintenance
+
+Source: https://onewayos.com/systems/maintenance
+
+Our Mission App OS Security Contact
+
+Sign in
+
+Oneway OS › Business OS › Maintenance
+Module
+
+Maintenance.
+
+Oneway Maintenance turns every problem anyone reports into a work order, keeps preventive upkeep on schedule, and shows what each repair cost.
+
+Part of Business OS, by contact, in the Closed Selective Server Beta. What is still being built is marked Planned.
+
+Talk to us
+
+Maintenance in Oneway OS, with sample records.
+
+Work orders
+
+Every problem, one work order.
+
+Open, hand on, close
+Opened, assigned and told, closed with what fixed it, its cost, parts, hours and pictures.
+
+How urgent
+Low, medium or high, ranked in the queue.
+
+On hold
+Waiting on a part or a vendor, said, never lost as in progress.
+
+The board
+To do, started and on hold, moved by hand.
+
+Requests
+Reported from the Oneway App by guests, members and staff, with a picture, each answer told.
+
+A checklist on the job
+Steps ticked on the phone before a repair is done.
+Planned
+
+The work as a board: to do, started, on hold.
+
+Upkeep
+
+Before it breaks.
+
+Preventive by time
+Every so many days, with a lead, never piling up; on-time compliance said.
+
+Preventive by meter
+Every so many hours or uses, read by a person or by the equipment's sensor.
+
+Inspections
+A checklist walked and finished, lease inspections included.
+
+Incidents
+One thing that keeps failing, read as one incident with what fixed it last time.
+
+Who does it
+
+The right hands, at the right cost.
+
+The technician's phone
+Their work, Start and Done, what fixed it, hours and pictures, offline steps kept.
+
+Vendors
+Sent with a not-to-exceed, accepted or declined, done with its cost.
+
+Parts from Inventory
+Parts used come off the shelf, their cost on the repair.
+
+Escalation
+Work nobody takes is raised, by rules the Center sets.
+
+A timer on the job
+Labour time started and stopped on the phone.
+Planned
+
+The difference
+
+Maintenance on the same map as everything.
+
+A maintenance app keeps its own list of equipment. Here work lands on the Center's own things.
+
+Every thing is a thing you own
+Work lands on Asset Management's register: downtime and cost of ownership per thing.
+
+Requests from the App
+Guests and members report a problem where they already are.
+
+Parts from Inventory
+The shelf and the repair are one history.
+
+How it works
+
+From reported to fixed.
+
+Reported
+From the App, the desk or a schedule.
+
+Assigned
+To a person or a vendor, told.
+
+Done
+What fixed it, the parts, the hours and the cost.
+
+Learned
+Downtime and repeat failures, per thing.
+
+Who it is for
+
+Anyone who keeps a building running.
+
+Hotels
+Rooms, the boiler, the elevators and the pool.
+
+Rental property
+Units and the tenants' requests.
+
+Restaurants
+The kitchen's equipment.
+
+Venues and clubs
+Everything the night depends on.
+
+Comes with these Systems
+
+Oneway Hotel Operations
+Property Management System
+
+Fixed, and kept running.
+Talk to us Business OS
+
+Our Mission
+App
+OS
+Business OS
+Developer OS
+Security
+Contact
+
+Support
+Safety
+Community Guidelines
+Accessibility
+Glossary
+
+Oneway Arcade
+
+Privacy
+Terms
+Data Deletion
+Corporate Charter
+
+2027, Oneway Technologies LLC
+
+---
+
+## Oneway Marketing
+
+Source: https://onewayos.com/systems/marketing
+
+Our Mission App OS Security Contact
+
+Sign in
+
+Oneway OS › Business OS › Marketing
+Module
+
+Marketing.
+
+Oneway Marketing makes your offers and events, shapes each picture for every platform, and shows everywhere your business appears and where it is out of date.
+
+Part of Business OS, by contact, in the Closed Selective Server Beta. What is still being built is marked Planned.
+
+Talk to us
+
+Marketing in Oneway OS, with sample records.
+
+Everywhere you appear
+
+Every record, every place it reaches.
+
+The projection board
+Hours, phone, offers, events and posts against the App, the web and Google, one dot each.
+
+What is out of step
+A place that says something else, or nothing, said in one sentence.
+
+Connected platforms
+Each post's receipt from each platform it was published to.
+
+Your ads, read
+Google Ads and Meta ad accounts and their last seven days.
+
+Every record of the business against every place it reaches.
+
+Offers
+
+What you are offering, right now.
+
+Offers
+A package, a promotion or a special, published and ended.
+
+Events
+Put on once, shown in the App, on the web and wherever it is promoted.
+
+One picture, every shape
+A photograph cut for the App, stories, Instagram, Facebook, links, Google and email.
+
+Email campaigns
+An offer sent to a list of customers.
+Planned
+
+Ads made here
+An ad started and paid for from Oneway.
+Planned
+
+The difference
+
+Marketing from the truth.
+
+A marketing tool keeps its own copy of the business. Here every surface reads the Center's own record.
+
+Change it once
+Hours and offers change everywhere they are shown.
+
+Said when out of step
+A place still saying the old thing is named.
+
+Never stretched
+Each picture cut around its focus, the original untouched.
+
+How it works
+
+From one record to everywhere.
+
+Say it once
+Facts, offers and events on the Center.
+
+Shape it
+Each picture for each surface.
+
+Send it out
+The App, the web and each connected platform.
+
+Read it back
+Where it arrived, and where it did not.
+
+Who it is for
+
+Any business that wants to be found.
+
+Hotels
+Packages, events and the rate of the week.
+
+Restaurants
+Specials, hours and the night's music.
+
+Venues
+Every show, everywhere.
+
+Shops
+What is new and what is on sale.
+
+Comes with these Systems
+
+Casino Operations System
+Oneway Events
+Restaurant Operations System
+
+Said once, everywhere.
+Talk to us Business OS
+
+Our Mission
+App
+OS
+Business OS
+Developer OS
+Security
+Contact
+
+Support
+Safety
+Community Guidelines
+Accessibility
+Glossary
+
+Oneway Arcade
+
+Privacy
+Terms
+Data Deletion
+Corporate Charter
+
+2027, Oneway Technologies LLC
+
+---
+
+## Oneway Reservations
+
+Source: https://onewayos.com/systems/reservations
+
+Our Mission App OS Security Contact
+
+Sign in
+
+Oneway OS › Business OS › Reservations
+Module
+
+Reservations.
+
+Oneway Reservations lets people book the things your place offers, a room, a table, a court or a space, from the Oneway App, and runs the book from confirmation to check-out.
+
+Part of Business OS, by contact, in the Closed Selective Server Beta. What is still being built is marked Planned.
+
+Talk to us
+
+Reservations in Oneway OS, with sample records.
+
+What is booked
+
+Anything your place offers, bookable.
+
+Bookable things
+A room, a table, a court, a boat or a space: any of the Center's things takes bookings.
+
+Its hours
+When each one takes bookings, day by day.
+
+Availability
+What is free and when, read before anyone books.
+
+A grid across things
+The day drawn as a timeline across every bookable thing.
+Planned
+
+What can be booked, with its hours and its rules.
+
+Booking
+
+Booked from the App, kept in one book.
+
+Booked from the App
+A person books from the Center's page and sees their bookings in their own.
+
+Cancelled by the guest
+A guest cancels their own booking, and the time is free again.
+
+The desk's book
+The day's bookings, waiting on you and from today on.
+
+Confirm, check in, check out
+The desk moves each booking through its day.
+
+Deposits and cards on file
+A deposit taken when the booking is made.
+Planned
+
+Filling the time
+
+Nothing booked is an opportunity.
+
+Idle things
+Every bookable thing with nothing booked in the coming days, said.
+
+Offered as a space
+An idle thing proposed as a space opportunity, published by its owner.
+
+Shown everywhere
+The same booking facts shaped for a Popit, a Center page, an event and the web.
+
+The difference
+
+Booked where people already are.
+
+A booking widget waits on a website. Here the Center's page in the App is where people book.
+
+Every thing is a thing you own
+Bookable things live in Asset Management's register.
+
+One book for the desk
+Rooms, tables and courts in one place.
+
+Idle time said
+What nobody booked is proposed as something to offer.
+
+How it works
+
+From a free hour to a full one.
+
+Make it bookable
+Choose a thing and its hours.
+
+People book
+From the Center's page in the Oneway App.
+
+The desk runs the day
+Confirm, check in, check out.
+
+Idle time offered
+What nobody booked becomes an offer.
+
+Who it is for
+
+Anywhere people book a time.
+
+Hotels and resorts
+Rooms, the spa, cabanas and courts.
+
+Restaurants
+Tables and private rooms.
+
+Clubs and venues
+Courts, lanes and rooms.
+
+Communities
+Shared spaces members book.
+
+Comes with these Systems
+
+Casino Operations System
+Oneway Events
+Oneway Hotel Operations
+Property Management System
+Restaurant Operations System
+
+Every hour, bookable.
+Talk to us Business OS
+
+Our Mission
+App
+OS
+Business OS
+Developer OS
+Security
+Contact
+
+Support
+Safety
+Community Guidelines
+Accessibility
+Glossary
+
+Oneway Arcade
+
+Privacy
+Terms
+Data Deletion
+Corporate Charter
+
+2027, Oneway Technologies LLC
+
+---
+
+## Oneway Rewards
+
+Source: https://onewayos.com/systems/rewards
+
+Our Mission App OS Security Contact
+
+Sign in
+
+Oneway OS › Business OS › Rewards & Membership
+Module
+
+Rewards & Membership.
+
+Oneway Rewards runs your loyalty program: members earn credits for what they do at your place, move up tiers, and redeem what they have earned.
+
+Part of Business OS, by contact, in the Closed Selective Server Beta. What is still being built is marked Planned.
+
+Talk to us
+
+Rewards & Membership in Oneway OS, with sample records.
+
+The program
+
+Your program, your rules.
+
+Tiers and benefits
+Each tier named, the credits it takes, and what it gives.
+
+Earned for activity
+Credits posted for a stay, a meal or a visit.
+
+Redeemed
+Credits spent at the place, kept on the card.
+
+Lapsing credits
+Credits that expire after the program's months, by a run the owner checks first.
+
+Adjusted with a reason
+A card corrected, the reason kept.
+
+The program's tiers, and its members.
+
+Members
+
+Every member, one card.
+
+Enrolled anywhere
+From a customer record, a Oneway person or a name, or joined in the App.
+
+Their card in the App
+Each member reads their own card, and chooses what they share.
+
+Cards from other programs
+A member links the card they already hold; a provider's export confirms it.
+
+Recognized elsewhere
+Whose standing this Center honours, and as what.
+
+Offers to a tier
+An offer addressed to members of one tier.
+Planned
+
+The difference
+
+A card people already carry.
+
+A loyalty app is one more app to download. Here the card lives in the Oneway App members already use.
+
+In the App
+The member's card, beside the place's page.
+
+Their choice
+What a member shares with the place, they decide.
+
+Other programs welcome
+A card from another program, linked, never copied.
+
+How it works
+
+From a visit to a reward.
+
+Enrol
+At the desk, from the CRM, or in the App.
+
+Earn
+Credits for what members do.
+
+Rise
+Tiers with their benefits.
+
+Redeem
+Credits spent at the place.
+
+Who it is for
+
+Any place people come back to.
+
+Hotels and resorts
+Nights, upgrades and the spa.
+
+Restaurants and bars
+Meals and the regulars.
+
+Casinos
+Play and comps, beside the casino's own program.
+
+Clubs
+Members and their standing.
+
+Comes with these Systems
+
+Casino Operations System
+
+Give them a reason to come back.
+Talk to us Business OS
+
+Our Mission
+App
+OS
+Business OS
+Developer OS
+Security
+Contact
+
+Support
+Safety
+Community Guidelines
+Accessibility
+Glossary
+
+Oneway Arcade
+
+Privacy
+Terms
+Data Deletion
+Corporate Charter
+
+2027, Oneway Technologies LLC
+
+---
+
+## Oneway Scheduling
+
+Source: https://onewayos.com/systems/scheduling
+
+Our Mission App OS Security Contact
+
+Sign in
+
+Oneway OS › Business OS › Scheduling
+Module
+
+Scheduling.
+
+Oneway Scheduling builds your team's week of shifts, lets people claim, swap and take time off, and keeps the clock and the cost of every hour.
+
+Part of Business OS, by contact, in the Closed Selective Server Beta. What is still being built is marked Planned.
+
+Talk to us
+
+Scheduling in Oneway OS, with sample records.
+
+The week
+
+A week of shifts, published once.
+
+Shifts by role
+Each shift with its hours and role, edited until the week is published.
+
+Open shifts
+A shift nobody has yet, claimed by someone who can take it.
+
+Publish the week
+The team reads its week once it is published, each person their own.
+
+Availability
+Each person says when they can work.
+
+Copy last week
+A week's shifts copied as drafts, the warnings read again.
+Planned
+
+Shift reminders
+A reminder before each published shift.
+Planned
+
+The week, shift by shift: who has it, or nobody yet.
+
+The team
+
+Swaps and time off, decided by a manager.
+
+Offer and swap
+A shift offered to the team, taken or swapped, the change decided once.
+
+Time off
+Asked for, decided, and kept out of the schedule.
+
+Notes on the week
+A note to the team, and who has seen it.
+
+Who is on
+Everyone on a shift, from the shift itself.
+
+Time and cost
+
+Every hour clocked, and what it cost.
+
+The time clock
+Clocked in and out; a punch corrected or voided, with who did it.
+
+Timesheets approved
+The week's hours approved by a manager.
+
+Pay rates
+An hourly rate per person from the day it starts, kept by an owner.
+
+Labour against sales
+The day's and the week's labour cost, and its share of sales.
+
+Staffing from the book
+How many people a day's bookings and events need, beside who is scheduled.
+
+Timesheets out for payroll
+Hours, rate and cost per person, as a sheet for the payroll provider.
+Planned
+
+Clock-in at the place
+A clock-in only where the work is.
+Planned
+
+The difference
+
+The schedule knows the work.
+
+A scheduling app knows shifts. Here the week sits beside the bookings, events and sales it serves.
+
+From the book
+The staffing need is read from the day's bookings and events.
+
+Against the sales
+Labour is weighed against the sales the Center's points of sale report.
+
+One team
+The same people the Center's roles and permits name, never a second list.
+
+How it works
+
+A week, every week.
+
+Build the week
+Shifts by role, with the open ones left open.
+
+Publish it
+Everyone reads their own week.
+
+The team settles it
+Claims, swaps and time off, decided by a manager.
+
+Clock and cost
+Hours clocked, approved, and weighed against sales.
+
+Who it is for
+
+Any team that works in shifts.
+
+Hotels
+The desk, housekeeping and engineering around the clock.
+
+Restaurants and bars
+The floor and the kitchen, against the night's sales.
+
+Venues
+The crew each event needs.
+
+Shops and services
+Opening hours covered, every day.
+
+The week, built and covered.
+Talk to us Business OS
+
+Our Mission
+App
+OS
+Business OS
+Developer OS
+Security
+Contact
+
+Support
+Safety
+Community Guidelines
+Accessibility
+Glossary
+
+Oneway Arcade
+
+Privacy
+Terms
+Data Deletion
+Corporate Charter
+
+2027, Oneway Technologies LLC
+
+---
+
+## Oneway Team
+
+Source: https://onewayos.com/systems/team
+
+Our Mission App OS Security Contact
+
+Sign in
+
+Oneway OS › Business OS › Team
+Module
+
+Team.
+
+Oneway Team keeps who works at your business, what each of them may see and do, and every permit and license before it lapses.
+
+Part of Business OS, by contact, in the Closed Selective Server Beta. What is still being built is marked Planned.
+
+Talk to us
+
+Team in Oneway OS, with sample records.
+
+Roles
+
+Each person sees their own work.
+
+Custom roles
+A role named by the business, with the Systems, departments and acts it may use.
+
+Assigned
+Each person given a role, and refused outside it, in words.
+
+Work apart from life
+Work for a Center kept apart from a person's own activity.
+
+Onboarding checklists
+A new hire's first steps, ticked.
+Planned
+
+Permits and licenses, each with the day it expires.
+
+Permits
+
+Nothing lapses unnoticed.
+
+Permits and licenses
+Each with its issuer, holder, number and expiry.
+
+Reminded before it lapses
+Told once, ahead of the day.
+
+An expired one, said
+On the OS's Home, until it is renewed.
+
+Their time
+
+Shifts and hours, with Scheduling.
+
+Their week
+Each person's shifts, time off and the clock, from Scheduling.
+
+Payroll
+Pay run and paid through a payroll provider.
+Planned
+
+The difference
+
+One person, one identity.
+
+An HR tool keeps its own copy of each person. Here each one is the same person across the platform.
+
+Their own account
+One Oneway account, a work identity kept apart.
+
+Roles that refuse
+Outside their role, an act is refused in words.
+
+The same team everywhere
+Scheduling, Maintenance and the inbox read the same people.
+
+How it works
+
+From a hire to a team.
+
+Invite them
+To the Center, with a role.
+
+They see their work
+Only what their role allows.
+
+Keep the papers
+Permits and licenses, reminded.
+
+Run the week
+With Scheduling.
+
+Who it is for
+
+Any business with a team.
+
+Hotels
+Every department, its own view.
+
+Restaurants
+Front and back of house.
+
+Venues
+The crew and its licenses.
+
+Service companies
+Technicians and their certifications.
+
+The right people, with the right access.
 Talk to us Business OS
 
 Our Mission
