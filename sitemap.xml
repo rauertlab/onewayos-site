@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://onewayos.com/</loc><lastmod>2026-10-19</lastmod></url>
+  <url><loc>https://onewayos.com/os-business-entertainment</loc><lastmod>2026-10-19</lastmod></url>
+  <url><loc>https://onewayos.com/os-business-hospitality</loc><lastmod>2026-10-19</lastmod></url>
+  <url><loc>https://onewayos.com/os-business-industries</loc><lastmod>2026-10-19</lastmod></url>
+  <url><loc>https://onewayos.com/os-business-restaurants</loc><lastmod>2026-10-19</lastmod></url>
+  <url><loc>https://onewayos.com/os-business</loc><lastmod>2026-10-19</lastmod></url>
   <url><loc>https://onewayos.com/systems/asset-management</loc><lastmod>2026-10-19</lastmod></url>
   <url><loc>https://onewayos.com/systems/crm</loc><lastmod>2026-10-19</lastmod></url>
   <url><loc>https://onewayos.com/systems/hotel-operations</loc><lastmod>2026-10-19</lastmod></url>
