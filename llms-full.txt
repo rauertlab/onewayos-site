@@ -26,80 +26,99 @@ Connect your casino in one place.
 Open Oneway OS →
 View Systems
 
-Business OS
+The Center Model
 
-Run your people, Systems and daily work from one Center. Run your whole operation.
+The Center is the canvas. Oneway OS is the brush.
 
-Explore Business OS Business →
+A Center can be an information page .
+
+However you choose to use Oneway OS, the Center model creates opportunities for communities, businesses, and organizations to connect, grow, and strengthen the places they bring together.
+
+Free
 
 Oneway OS
 
-Create a Center for your community or an information page. Create a community Center.
+Create a Center for your community, your business's public page or an information page about a place.
 
-Open Oneway OS Oneway →
+Open Oneway OS →
+
+Free
 
 Developer OS
 
-Build apps, modules and integrations for Centers. Build for the ecosystem.
+Build apps, modules and integrations that Centers can use.
 
-Explore Developer OS Developer →
-
-Business OS is $330 a month, set up by contact. Get Oneway OS today
+Explore Developer OS →
 
 Oneway OS runs a business, a community or a place: its page, website, posts, events and members for free, and with Business OS, the Systems of its industry, its team and the Brain.
 
-What a Center is
+Business OS
 
-A Center is whatever your place needs it to be.
+Run your whole operation from one Center.
 
-A Center can be:
+Core
 
-an information page for a place, a landmark or what locals know
+For one Center's team
 
-a social profile with posts and followers, the way Instagram works
+$39.99 a month
 
-your business's website, on your own domain
+The whole Brain on your Center: it notices, answers, drafts and recommends
 
-a community's home, with members, groups, chat and events
+Assets, bookings, staff and customers on one record
 
-a storefront that takes orders and bookings
+The Systems for your kind of place
 
-the workspace your team runs the business from
+Lightbulb and the website creator, inside a monthly allowance
 
-Whichever it is, its page is a canvas its team lays out in Oneway OS, Popit by Popit.
+You approve every action
 
-System Store
+Business
 
-Everything your Center needs.
+For one business Center
 
-Oneway OS, with sample records.
+$330 a month
 
-Systems bring industry and everyday capabilities into a Center. Explore what is available, then connect the tools that fit your operation.
+Everything in Core, plus:
 
-Customer Relationships Customers and their whole story, deals and pipelines, follow-ups that ring at their hour, companies, saved lists, consent, import and export.
-Inventory Stock by place and shelf, counts by scanning, lots and expiry, orders and deliveries due, recipes and plate cost, sales taking stock.
-Asset Management A register of every thing, lending and returns, warranties, condition and downtime, guided audits, groups and the cost of ownership.
-Maintenance Work orders by priority, requests from the App, preventive upkeep by time and meter, inspections, vendors, parts reserved, hours from the clock.
-Scheduling The week's shifts, open shifts filled by rule, swaps and time off, the time clock, timesheets for payroll, labour against sales.
-Reservations Rooms, tables, courts and spaces booked from the App, booking hours and who may book, the desk's book, idle time offered.
-Rewards & Membership Tiers and benefits, credits earned and redeemed, members and their cards in the App, cards from other programs.
-Community Management Members, requests to join with Admit and Decline, invitations, and who joined this week. Free on Oneway OS.
-Hotel Operations The book and its rates, holds and group blocks, the front desk and folios, house accounts, housekeeping, traces and the night audit.
-Restaurant Operations Tables and the floor, the waitlist, seating and table states, the 86 board.
-Property Management Units and leases, rent posted and paid, late fees, renewals, notices and move-outs.
-Casino Operations Machines and tables on the floor, hand pays, a guest's limits and exclusions.
-HVAC Service Operations Calls and dispatch, the tech's day, equipment history, service agreements, the price book and good, better, best quotes.
-Events Events put on and changed, Going and Maybe in the App, check-in at the door, promotion by other Centers.
-Communications One shared inbox, saved and automatic replies, notes to the team.
-Marketing Offers, one post to every platform with each picture in its shape, and where every record of your business stands.
-People Roles that say what each person may do, and permits reminded before they lapse.
+The Brain can act for you, within the limits you set
 
-Each System, on its own page
-Oneway CRM Inventory Management Asset Management Hotel Operations HVAC Service Operations
-Each module, on its own page
-Scheduling Reservations Maintenance Communications Marketing Events Team Rewards & Membership
+Helpers and plans that keep running on their own
 
-Install the Systems your place needs; each adds its tools to your Center and its Popits to the canvas.
+A much larger thinking allowance
+
+Business OS adds the Brain, the Systems for your industry and your team's tools to a Center. It is set up with you by contact, and several Centers or Enterprise OS are by contact too.
+
+Talk to us → Explore Business OS →
+
+Oneway Brain
+
+The Brain sits under your Center. It connects the platforms and tools you already use, notices what needs attention, answers your questions and drafts the next step.
+
+On Core and Business.
+
+Oneway Systems
+
+Add Systems for your industry and your everyday work: customers, inventory, equipment, maintenance, scheduling, bookings and more.
+
+See every System →
+
+Every Center has a page
+
+Every Center has a public page.
+
+It's what people see when they find you on the map, in search or in a friend's feed, in the Oneway App and on the web.
+
+Your layout Arrange your page your way with Popits: your info, posts, events, offers, photos and more.
+
+Works like a profile Post updates, get followers and messages. Your followers and members are real people with their own Profiles.
+
+Your content Posts, events, offers, photos and hours, kept up to date in one place.
+
+Your community Members, groups, chat and events for the people around your place.
+
+Your website too The same page can be your website, on your own domain.
+
+Run from Oneway OS Your team runs the Center in Oneway OS, and what you change there shows on your page right away.
 
 Business OS vs. the stack
 
@@ -134,40 +153,6 @@ Your stack costs a month more than Business OS.
 Your numbers stay in your browser.
 
 The names are examples of each kind of tool, and none of them has any affiliation with Oneway.
-
-Compatibility & the Brain
-
-Bring everything you use into one place.
-
-On Business OS, the Brain sits under your Center. It connects the platforms and tools you already use, the Systems you install route back through it, and the whole operation moves as one.
-
-Center →
-Brain →
-System Store →
-Installed Systems →
-Team · website · operations
-
-How a Center grows
-
-Start as a community. Grow into an operation.
-
-4 stages, from a community to an enterprise
-
-Stage 1
-Community
-Members, channels, events, and shared resources.
-
-Stage 2
-Connected
-+ a public website, public intake, and Brain.
-
-Stage 3
-Operational
-+ installed Systems and staff.
-
-Stage 4
-Enterprise
-+ multiple Systems, departments, and advanced Brain.
 
 Build your Center on Oneway OS.
 
@@ -773,20 +758,20 @@ Core System
 
 Asset Management.
 
-Asset Management tracks every physical thing your business owns: where it is, who has it, what it costs, and the upkeep that keeps it running.
+Asset Management tracks everything your business owns: where it is, who has it, what it cost, and when it needs service.
 
 Replaces Asset Panda or Snipe-IT.
 
-And it does what they can't on their own, because every System here shares one set of records.
+Plus what they can't do, because it's connected to the rest of your business.
 
-One physical world under every System
-A hotel's rooms, a casino's machines and a customer's furnace are one register; each industry System adds its own work.
+Any kind of asset
+Track anything your business owns, from hotel rooms and slot machines to vans and equipment at a customer's home.
 
-Installed together
-Installing Hotel Operations installs Asset Management, Reservations and Maintenance with it.
+Set up with your industry System
+Turn on Hotel Operations and Asset Management, Reservations and Maintenance come with it.
 
-Parts with one life
-A part is Inventory's stock until it is installed in a thing, and stays on that thing's record until it is removed.
+Parts tracked to each machine
+See which parts are installed in each piece of equipment, and when they were swapped out.
 
 The base every physical System runs on: Hotel Operations, Restaurant Operations, Property Management, HVAC and more.
 
@@ -798,106 +783,106 @@ Asset Management in Oneway OS, with sample records.
 
 The register
 
-Anything, in your own words.
+Everything you own, in one list.
 
-Every thing, one register
-Found by words, tag, code, kind, place or state; changed many at a time.
+One asset list
+Search by name, tag, code, type, location or status, and edit many at once.
 
-Where it stands
-Places inside places, and things inside things; moving one moves what it holds.
+Locations
+Nest locations and assets inside each other. Move one and everything inside it moves too.
 
-A QR code for each
-Printed in house; scanning it opens the thing in the OS.
+QR codes
+Print a QR label for each asset. Scanning it opens the asset in Oneway OS.
 
-Lent and returned
-Checked out to a person until a day, never twice; back with its condition.
+Check-out and return
+Check an asset out to someone until a due date, and record its condition when it comes back.
 
-Bought and warranted
-Price, supplier, warranty and useful life; warranties ending in 90 days listed.
+Purchases and warranties
+Price, supplier, warranty and expected life, with a list of warranties ending in the next 90 days.
 
-A guided audit
-Walked place by place, with what was not found.
+Audits
+Walk through each location and see what's missing.
 
-Your own groups
-The business's own groups of things, each counted; found, registered and reported by group.
+Custom groups
+Make your own groups, with counts, and search, add and report by group.
 
-Retired, never deleted
-Retiring is asked and decided by a second person; a retired thing keeps its history.
+Retiring assets
+A second person approves each retirement, and the asset's history is kept.
 
-The register's report, the map of every thing by place, and the work each department does.
+Reports, a map of every asset by location, and each department's work.
 
 Maintenance
 
-Kept working, and the cost known.
+Keep it running and know the cost.
 
 Work orders
-Handed to whoever is on the clock with the fewest open, who is told on their phone.
+Assigned to whoever is on shift with the fewest open jobs, and sent to their phone.
 
-Closed with the proof
-Parts, cost, hours and pictures of the fix, on the thing's own record.
+Closed with proof
+Parts, cost, hours and photos of the fix are saved on the asset.
 
-Last time this happened
-The next person sees what fixed it before, picture and all.
+Past fixes
+The next tech sees what fixed it last time, with photos.
 
-Preventive work that opens itself
-Every so many days, or by a meter's reading; on time, late and overdue said.
+Preventive maintenance
+Scheduled by days or by meter readings, with on-time, late and overdue tracking.
 
-Reported once
-Guests, members and staff report from the App and are told when it is fixed.
+Problem reports
+Guests, members and staff report problems from the App and hear back when it's fixed.
 
-Sensors feeding meters
-A meter read from the equipment itself, through its sensors feed.
+Sensor readings
+Meter readings can come straight from the equipment's sensors.
 
 Cost and condition
 
-Repair it or replace it.
+Know when to repair or replace.
 
-Condition and state, apart
-Working, degraded or failed, and in or out of service; out of order leaves what can be sold.
+Condition and status
+Track whether it's working, degraded or failed, and whether it's in service. An out-of-order item comes off what you can sell.
 
-Downtime, every span
-Hours down in the last 90 days and in all, from the thing's own history.
+Downtime
+Hours down in the last 90 days and in total.
 
 Reliability
-Mean time between failures and to repair, and the least reliable things.
+Average time between failures and to repair, plus your least reliable assets.
 
 Cost of ownership
-Price plus every repair, book value, and when replacing is worth weighing.
+Purchase price plus every repair, current book value, and when it's worth replacing.
 
-A history nobody rewrites
-Every change, who, when and why.
+Change history
+Every change, with who made it, when and why.
 
 Scheduled reports
-The report sent to the owners in Oneway on its day, and the register as a sheet.
+Reports sent to owners on a schedule, and your asset list as a spreadsheet.
 
 How it works
 
-A thing, and everything that happens to it.
+From purchase to replacement.
 
 Add it
-By hand, from a spreadsheet or a QR label.
+Manually, from a spreadsheet or by QR label.
 
 Use it
-Booked, lent, sold or worked on.
+Book it, lend it, sell it or repair it.
 
-Keep it working
-Work orders and preventive upkeep on the thing.
+Maintain it
+Work orders and preventive maintenance.
 
 Know its cost
-Downtime, repairs and the case to replace it.
+Downtime, repair costs and when to replace it.
 
 Who it is for
 
-Every place that owns things.
+For any business with equipment.
 
 Hotels and resorts
-Rooms, elevators, kitchens and plant.
+Rooms, elevators, kitchens and mechanical systems.
 
 Venues and casinos
-Machines, tables and the floor.
+Slot machines, tables and the floor.
 
 Property managers
-Units and what is inside them.
+Units and the appliances in them.
 
 Gyms, schools and offices
 Equipment, rooms and vehicles.
@@ -916,7 +901,7 @@ At a glance
 
 Oneway Asset Management, in facts.
 
-What it is Asset Management tracks every physical thing your business owns: where it is, who has it, what it costs, and the upkeep that keeps it running.
+What it is Asset Management tracks everything your business owns: where it is, who has it, what it cost, and when it needs service.
 Part of Oneway OS, as a core system of Business OS.
 Comes with Casino Operations System, Events, Hotel Operations System, Inventory Management, Maintenance, Property Management System, Restaurant Operations System.
 Where it runs In Oneway OS, in a web browser on a computer or a phone.
@@ -924,7 +909,7 @@ Price Part of Business OS, set up by contact. See its plan ; Oneway OS alone is 
 Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
 Made by Oneway Technologies LLC, New York.
 
-Know every thing you own.
+Know everything you own.
 Talk to us Business OS
 
 Our Mission
@@ -976,82 +961,82 @@ Communications in Oneway OS, with sample records.
 
 The inbox
 
-Every conversation, one inbox.
+One shared inbox.
 
 One shared inbox
-Every conversation people start with the business in the Oneway App.
+Every message people send your business in the Oneway App.
 
-Who has the line
-Assigned to a person, escalated with a reason, concluded with its outcome.
+Assignments
+Assign a conversation to someone, escalate it with a reason, and close it with the outcome.
 
 Saved replies
-The business's own answers, by name, one press away.
+Your own saved answers, one click away.
 
 Automatic replies
-A greeting, an away message and the business's own questions, sent by rule.
+A greeting, an away message and answers to common questions, sent automatically by your rules.
 
 Other channels
 SMS, WhatsApp, email, Instagram and Messenger in the same inbox.
 Planned
 
 Translation
-A message read and answered in the guest's language.
+Read and reply in the guest's language.
 Planned
 
-Notes to the team, and who they reached.
+Team notes, and who read them.
 
 The team
 
-What the team needs to know, once.
+Keep your team informed.
 
 Tell the team
-A note to everyone, or to one department, and who it reached.
+Send a note to everyone or one department, and see who got it.
 
-In each person's day
-A line handed to someone reaches their day in the Oneway App.
+Shows up in their day
+When a conversation is assigned to someone, it shows up in their day in the Oneway App.
 
-A message to every guest in the house
+Message all in-house guests
 One message to everyone staying, or to a group.
 Planned
 
-Messages scheduled across a stay
-Before arrival, during and after, sent on their day.
+Scheduled guest messages
+Messages before arrival, during and after a stay, sent on schedule.
 Planned
 
 The difference
 
-The inbox knows the customer.
+See who you're talking to.
 
-An inbox tool sees messages. Here each line sits beside the customer's bookings and history.
+Most inbox tools only show messages. Oneway shows each customer's bookings and history right next to the conversation.
 
-Beside the CRM
-Who is writing, and what they have booked, next to what they wrote.
+Customer info alongside
+See who's writing and what they've booked, next to their message.
 
 Your rules, your words
-Automatic replies say only what the business wrote.
+Automatic replies only say what you wrote.
 
 One team
-Assigned to the people the Center's roles name.
+Assign conversations to the people on your team.
 
 How it works
 
 From a message to an answer.
 
-It arrives
-In one inbox, from the App.
+A message comes in
+To one inbox, from the App.
 
-Routine is answered
-By the business's own rules.
+Common questions are answered
+Automatically, by your rules.
 
-The rest is handed on
-To a person, told in their day.
+The rest is assigned
+To a person, who's notified.
 
-It is concluded
-With its outcome, kept.
+It's closed
+With the outcome saved.
 
 Who it is for
 
-Any business people write to.
+For any business customers message.
 
 Hotels
 Guests before, during and after a stay.
@@ -1060,7 +1045,7 @@ Restaurants
 Bookings, questions and parties.
 
 Venues
-Tickets, guest lists and the night.
+Tickets, guest lists and event-night questions.
 
 Communities
 Members and their questions.
@@ -1118,20 +1103,20 @@ Core System
 
 Oneway CRM.
 
-Oneway CRM keeps every customer's whole story, from their real bookings, visits and messages, so your team knows who they are and what to do next.
+Oneway CRM keeps a profile for every customer, with their bookings, orders and messages already filled in, so your team knows who they are and what to do next.
 
 Replaces HubSpot or Pipedrive.
 
-And it does what they can't on their own, because every System here shares one set of records.
+Plus what they can't do, because it's connected to the rest of your business.
 
-Fed by the business
-Bookings, stays, orders, rewards and messages land on the customer by themselves. Nobody types a history in.
+No data entry
+Bookings, orders, rewards and messages show up on each customer's profile automatically.
 
-One customer for every System
-An HVAC caller, a web form's answer and a Shop order are the same record, never a second list.
+One customer list
+Web form sign-ups, HVAC calls and online orders all land on the same customer, not separate lists.
 
-Their own profile, live
-A customer on Oneway keeps their name and face current themselves.
+Profiles that stay current
+Customers on Oneway keep their own name and photo up to date.
 
 Part of Business OS, by contact, in the Closed Selective Server Beta. What is still being built is marked Planned.
 
@@ -1141,114 +1126,114 @@ Oneway CRM in Oneway OS, with sample records.
 
 The record
 
-One customer, one story.
+Every customer in one place.
 
-Bookings, stays, orders, posts and messages land on the same record, so nobody types a history in.
+Bookings, stays, orders and messages are added to each customer's profile for you, so nobody has to type them in.
 
-A timeline per customer
-Notes, deals and their moves, stays, orders paid, rewards and messages, newest first.
+Customer timeline
+Notes, deals, stays, paid orders, rewards and messages, newest first.
 
-Tags, an owner and your own fields
-Words, numbers, dates and lists of your own, filtered and exported.
+Tags, owners and custom fields
+Add your own fields (text, numbers, dates or lists), then filter and export by them.
 
-Consent, said once
-Email, texts and calls each agreed or refused. Do-not-contact stops every campaign and audience.
+Contact preferences
+Track whether each customer agreed to email, texts and calls. Do-not-contact keeps them out of every campaign and ad audience.
 
 Private by default
-Staff see customers only when their role works with them. Strangers see nothing.
+Staff only see customers if their role needs them. Nobody outside your business sees anything.
 
-Joined on evidence
-Two records become one only on a confirmed address or id, never on a name.
+No wrong merges
+Two records are only combined when the email or account matches, never just because the names do.
 
-Duplicates merged
-Found by email, phone or name and merged by an owner, with every deal carried over.
+Merge duplicates
+Duplicates are found by email, phone or name. An owner merges them and every deal carries over.
 
-Change many at once
-A tag, an owner or do-not-contact for a whole selection, each record keeping the change.
+Bulk edits
+Add a tag, change the owner or mark do-not-contact for many customers at once.
 
-Companies, each with its own page
-People under their company or household, with its deals, follow-ups and one timeline.
+Companies and households
+Group people under a company or household, with its own page, deals, follow-ups and timeline.
 
-Auto-tags by rule
-Regulars, big spenders and lapsed guests tagged from what they did here, kept true every hour.
+Automatic tags
+Tag regulars, big spenders and guests who haven't been back, based on what they actually did. Updated every hour.
 
-Each customer's record: the timeline, the deals, the follow-ups and their consent.
+A customer's profile: timeline, deals, follow-ups and contact preferences.
 
 Pipeline
 
-From the first message to the signed deal.
+Track every deal from first contact to close.
 
-Deals at stages named your way, a pipeline per kind of sale, each stage with its chance to close.
+Name your own stages, run a pipeline for each kind of sale, and set the odds of closing at each stage.
 
 Deals and stages
-Lead, qualified, proposal, negotiation, won and lost, with value and weighted value.
+Lead, qualified, proposal, negotiation, won and lost, with each deal's value and weighted value.
 
-Won and lost, with why
-The last 90 days' win rate, the reasons deals were lost, each owner's share.
+Win and loss reasons
+Your win rate over the last 90 days, why deals were lost, and how each salesperson is doing.
 
-Follow-ups that land
-A due day and hour, handed to a person who is told, on their own Workspace.
+Follow-ups
+Set a due date and time and assign it to someone. They're notified and see it in their Workspace.
 
-Leads from your own book
-People who booked with their account and are not on your list, made customers in one press.
+Leads from your bookings
+People who booked with you but aren't in your CRM yet, added as customers in one click.
 
-Your own stages and several pipelines
-Stages named your way, a pipeline per kind of sale, one board each.
+Custom stages and pipelines
+Name your stages and run a separate pipeline, with its own board, for each kind of sale.
 
-A reminder at the hour
-A follow-up rings for its person when it is due, once, in Notifications.
+Reminders
+Each follow-up sends its owner one reminder in Notifications when it's due.
 
 Lists and data
 
-Your customers, yours to move.
+Lists, search and data.
 
-Saved lists that keep up
-By tag, owner, company, stage, consent or words, counted again every time.
+Saved lists
+Filter by tag, owner, company, stage, contact preference or keyword. Lists update automatically.
 
-Search everything
-Names, addresses, phones, companies, tags and notes.
+Search
+Search names, emails, phone numbers, companies, tags and notes.
 
 Import and export
-A CSV in, each refused row named; every column out, a list or a filter at a time.
+Import a CSV and see exactly which rows didn't load and why. Export any list or filter with every column.
 
-The report
-Pipeline by stage, won and lost, follow-ups open, overdue and done.
+Reports
+Pipeline by stage, deals won and lost, and follow-ups open, overdue and done.
 
 Email from the CRM
-Sequences, templates and tracking.
+Email sequences, templates and tracking.
 Planned
 
 Web forms
-A form on its own page and on your site; each answer a customer, tagged, with a follow-up.
+Put a form on its own page or on your website. Each submission becomes a tagged customer with a follow-up.
 
 How it works
 
-From what happened to who to call.
+From a booking to the next call.
 
-Something happens
-A booking, a visit, an order or a message.
+A customer does something
+Books, visits, orders or sends a message.
 
-It finds its customer
-On evidence: the same address or id.
+It's matched to them
+By email or account, never by guessing.
 
-The record moves
-Its story, its deals and its tags.
+Their profile updates
+Timeline, deals and tags.
 
-The team acts
-Follow-ups due land on the right person.
+Your team follows up
+The right person gets the follow-up.
 
 Who it is for
 
-Any business people come back to.
+For businesses with repeat customers.
 
 Hotels and resorts
-Repeat guests known before they arrive.
+Know repeat guests before they arrive.
 
 Restaurants
-Regulars, their table and their preferences.
+Your regulars, their usual table and what they like.
 
 Services and practices
-Clients and the next appointment owed.
+Clients and when they're due back.
 
 Venues and clubs
 Members, groups and their bookings.
@@ -1263,7 +1248,7 @@ At a glance
 
 Oneway CRM, in facts.
 
-What it is Oneway CRM keeps every customer's whole story, from their real bookings, visits and messages, so your team knows who they are and what to do next.
+What it is Oneway CRM keeps a profile for every customer, with their bookings, orders and messages already filled in, so your team knows who they are and what to do next.
 Part of Oneway OS, as a core system of Business OS.
 Comes with Casino Operations System, Hotel Operations System, Restaurant Operations System.
 Where it runs In Oneway OS, in a web browser on a computer or a phone.
@@ -1313,9 +1298,9 @@ Module
 
 Events.
 
-Oneway Events puts your events on, lets people answer Going or Maybe in the Oneway App, and checks your guests in at the door.
+Oneway Events lets you post events, see who's going in the Oneway App, and check guests in at the door.
 
-Part of Business OS, by contact, in the Closed Selective Server Beta. What is still being built is marked Planned.
+Part of Business OS, by contact, in the Closed Selective Server Beta.
 
 Talk to us
 
@@ -1323,83 +1308,94 @@ Events in Oneway OS, with sample records.
 
 Putting it on
 
-An event, from a draft to the night.
+Create and run your events.
 
-A draft until it is out
-Made, then published, started, ended or cancelled.
+Drafts and publishing
+Save a draft, then publish, start, end or cancel it.
 
-Changed in place
-Its title, times, place and words, changed where it stands.
+Easy edits
+Change the title, times, location or description anytime.
 
-Tickets capped
-As many places as it holds, and no more.
+Recurring events
+Repeat an event every week, every two weeks or every month. Each date keeps the same local time and its own guest list, and you can change or cancel every upcoming date at once.
+
+Capacity limits
+Cap attendance at what the venue holds.
 
 Paid tickets
-Tickets sold and paid for in the App.
-Planned
+Sell ticket types with their own price and quantity in the App. Each seat gets its own code.
 
-At the door: who is here, of who is coming.
+At the door: who's here and who's still coming.
 
 The people
 
-Who is going, before anyone arrives.
+Know who's coming.
 
-Going and Maybe
-People answer in the Oneway App, and see how many are going.
+RSVPs
+People tap Going or Maybe in the Oneway App and see how many are going.
 
-Attendance
-Who answered, read by the organiser.
+Capacity and waitlist
+Seats include the guests people bring, and the limit is never exceeded. When a spot opens, the next person on the waitlist gets it.
 
-At the door
-Each guest checked in with one press, or undone.
+Sign-up forms
+Ask your own questions, let people add guests, and approve each sign-up. Everyone who signs up is added to your customers.
 
-Here, of coming
-How many are here of how many said they were coming.
+Guest list
+See everyone who RSVP'd.
+
+Check-in
+Check in each guest with one tap, or undo it.
+
+Check-in by scan
+Every ticket and guest pass has a QR code. Scan it or type it, and each one checks in once.
+
+Live attendance
+How many people are here compared with how many said they'd come.
 
 Reach
 
-Shown by more than one place.
+Reach more people.
 
-Promoted by other Centers
-The owner lets another Center promote or show the event, or opens it to all.
+Promotion by other businesses
+Let other businesses on Oneway promote or list your event, or open it to everyone.
 
-Where it went
-Each destination the event reached, and what each one said.
+Where it was shared
+Every place your event was shared, and the result from each.
 
 The difference
 
-The event lives where people already are.
+Events people actually see.
 
-An event tool sells tickets on a page. Here the event is in the App people already use, with its place.
+Most event tools give you a ticket page. Oneway puts your event in the App people already use.
 
-Found in the App
-On the Center's page, the map and the feeds of people who follow it.
+In the App
+Your event shows on your Center's page, on the map, and in your followers' feeds.
 
-Promoted by neighbours
-Other Centers carry it, with the owner's say.
+Shared by other Centers
+Other businesses can promote your event, with your OK.
 
-Counted at the door
-Who came, of who said they would.
+Real attendance
+See who actually came, next to who said they'd go.
 
 How it works
 
 From a draft to the door.
 
-Put it on
-A draft, then published.
+Create it
+Draft it, then publish.
 
-People answer
+People RSVP
 Going or Maybe, in the App.
 
-It travels
-Promoted by other Centers.
+It gets shared
+Other businesses promote it.
 
-The door
-Each guest checked in.
+Check-in at the door
+Guests checked in as they arrive.
 
 Who it is for
 
-Anyone who puts something on.
+For anyone who hosts events.
 
 Venues and clubs
 Every night of the week.
@@ -1411,13 +1407,13 @@ Communities
 Meetings, classes and festivals.
 
 Organizations
-Members' events.
+Events for members.
 
 At a glance
 
 Oneway Events, in facts.
 
-What it is Oneway Events puts your events on, lets people answer Going or Maybe in the Oneway App, and checks your guests in at the door.
+What it is Oneway Events lets you post events, see who's going in the Oneway App, and check guests in at the door.
 Part of Oneway OS, as a module of Business OS.
 Where it runs In Oneway OS, in a web browser on a computer or a phone.
 Price Part of Business OS, set up by contact. See its plan ; Oneway OS alone is free.
@@ -1476,65 +1472,65 @@ Hotel Operations in Oneway OS, with sample records.
 
 The book
 
-From the rate to the room.
+Rooms, rates and reservations.
 
-Stays
-Booked by room and dates; what is left to sell, by type and night.
+Reservations
+Book by room and dates, and see what's left to sell by room type and night.
 
 Rates
-A rate ladder per room type; a type closed to sale on chosen dates.
+Set rates for each room type, and close a type to sale on chosen dates.
 
 Group blocks
-Rooms held to a cut-off, released after, tied to the group's event.
+Hold rooms for a group until a cut-off date, then release the rest. Linked to the group's event.
 
 Taxes and terms
-The room taxes a stay is charged, and the registration card's words.
+The room taxes charged on each stay, and your registration card terms.
 
-The book you have today
-An export from your current system, brought in as stays.
+Import your reservations
+Bring in reservations exported from your current system.
 
 Online travel agencies
-Rooms and rates sent to booking sites, bookings back.
+Send rooms and rates to booking sites and get bookings back.
 Planned
 
-The nights ahead on the books, and what each department does next.
+Upcoming nights on the books, and each department's next tasks.
 
 Front desk
 
-The desk's whole day.
+Everything the front desk does.
 
-Arrivals, in house, due out
-Every room's state beside the guests.
+Arrivals and departures
+Arrivals, in-house guests and departures, with each room's status.
 
-Check in, check out, move
-Deposits recorded, rooms moved before or during the stay.
+Check-in, check-out and room moves
+Record deposits and move guests to another room before or during their stay.
 
 Charges
-Posted by the desk, or waiting from the point of sale for one press.
+Post charges at the desk, or approve charges from the POS with one click.
 
-The night audit
-Each night's room charges and taxes, posted by your rules.
+Night audit
+Posts each night's room charges and taxes using your rules.
 
-The numbers
-Occupancy, ADR and RevPAR beside the same night last year.
+Key numbers
+Occupancy, ADR and RevPAR compared with the same night last year.
 
 Folios and accounts
 
-Every charge, and who pays it.
+Folios and billing.
 
-Oneway records money and never moves it.
+Oneway records payments. It never processes them.
 
-Routing
-A stay's charges sent to a house account or another folio.
+Charge routing
+Send a stay's charges to a house account or another folio.
 
 House accounts
-Billed as numbered invoices, paid oldest first, closed.
+Bill with numbered invoices, apply payments to the oldest first, and close them out.
 
 Disputes and write-offs
-Each with who and why.
+Each recorded with who did it and why.
 
 Split a bill by payer
-Separate windows on one folio.
+Separate sections on one folio for each payer.
 Planned
 
 Recurring and batch charges
@@ -1543,66 +1539,66 @@ Planned
 
 Housekeeping
 
-Clean, inspected, and known.
+Housekeeping.
 
-Room status from a phone
-Dirty, cleaned, inspected, ready; a room sells only once inspected.
+Room status on your phone
+Dirty, clean, inspected or ready. A room can only be sold once it's inspected.
 
-Rooms to clean
-Each assigned to a person, on their phone.
+Cleaning assignments
+Assign rooms to housekeepers on their phones.
 
 Out of order
-Taken out of sale with its reason, and returned to service.
+Take a room off sale with a reason, and put it back when it's fixed.
 
 Traces
-A note about a stay for a department on a day, marked done.
+Notes for a department about a guest's stay on a certain day, checked off when done.
 
-A guest reported
-What happened, to whom and where, handed to the department that answers it.
+Guest incidents
+Log what happened, to whom and where, and send it to the right department.
 
 Runs on Asset Management
 
-Every room is an asset.
+Built on Asset Management.
 
-Hotel Operations is its own System, with its own install, screens and acts. Its rooms are assets, so condition, history and upkeep are the same records engineering works on.
+Hotel Operations has its own screens and tools. Your rooms are tracked as assets, so housekeeping and maintenance work from the same records.
 
-Out of order is not out of service
-Out of order leaves what can be sold; out of service stays in the count.
+Out of order vs. out of service
+Out-of-order rooms come off what you can sell. Out-of-service rooms still count in your room totals.
 
-Brings what a hotel needs
+Comes with what a hotel needs
 Reservations, Maintenance and Oneway CRM come with it.
 
 How it works
 
-A stay, from booking to the audit.
+From booking to night audit.
 
 Booked
 A room, dates and a rate.
 
 Checked in
-The deposit on the folio.
+Deposit recorded on the folio.
 
-In the house
-Charges posted, traces worked.
+During the stay
+Charges posted, requests handled.
 
-Audited
-The night posted, the numbers read.
+Night audit
+The night posted and reports updated.
 
 Who it is for
 
-Hotels run from one place.
+For hotels of every size.
 
 Independent hotels
-The book, the desk and the accounts in one System.
+Reservations, front desk and accounting in one system.
 
 Resorts
-Hotel, restaurants and casino on one Center.
+Hotel, restaurants and casino in one place.
 
 Groups of hotels
-Each property its own Center, run the same way.
+Each property set up the same way.
 
 Inns and boutique hotels
-Fewer rooms, the same discipline.
+Fewer rooms, the same tools.
 
 Runs on
 
@@ -1668,20 +1664,20 @@ Industry System
 
 HVAC Service Operations.
 
-Oneway HVAC runs a heating and cooling company's calls, technicians and jobs, from the first call to the finished job, with every unit's history and service agreement.
+Oneway HVAC runs your heating and cooling business from the first call to the finished job: dispatch, your techs' day on their phones, equipment history and service agreements.
 
 Replaces ServiceTitan or Housecall Pro.
 
-And it does what they can't on their own, because every System here shares one set of records.
+Plus what they can't do, because it's connected to the rest of your business.
 
-Every furnace is an asset
-Each customer's unit, and the shop's own trucks and tools, keep their history, condition and upkeep in one register.
+The right tech, suggested
+Oneway suggests the first tech who's on shift and free for the job's time window.
 
-Sent by the schedule's rules
-The suggested tech is the first one on shift and free for the window, read from Scheduling.
+Equipment history at every home
+Each customer's units keep their full service history, along with your own trucks and tools.
 
-One customer
-A caller is the Center's one customer record, the same one the CRM keeps.
+One customer list
+Callers go into the same customer list as your CRM, not a separate one.
 
 Part of Business OS, by contact, in the Closed Selective Server Beta. What is still being built is marked Planned.
 
@@ -1691,78 +1687,78 @@ HVAC Service Operations in Oneway OS, with sample records.
 
 Calls and dispatch
 
-Every call is a job from the first minute.
+Turn every call into a job.
 
 Take a call
-A returning customer or a new one, the service address kept with them.
+Look up a returning customer or add a new one, with their service address.
 
-Four kinds of job
-Service call, maintenance visit, install or estimate, in the caller's words.
+Job types
+Service call, maintenance visit, install or estimate, with the customer's description.
 
 Arrival windows
-One to four hours on your own clock; moved, and the tech moves with it.
+Set one- to four-hour windows. Move a window and the tech's schedule moves with it.
 
-Send a tech
-Told on their phone at once; their shift and other jobs checked first.
+Dispatch
+The tech gets the job on their phone right away, after Oneway checks their shift and other jobs.
 
-The suggested tech
-The first technician free for the window, on shift, sent in one press by the schedule's rules.
+Suggested tech
+Oneway suggests the first tech who's on shift and free for the window. Send them in one click.
 
-The dispatch board
-Each tech's shift and jobs in order, and the jobs still waiting.
+Dispatch board
+Each tech's shift and jobs in order, plus jobs still waiting for a tech.
 
 Dispatch on a map
-Drag a job onto a tech, in route order.
+Drag jobs onto techs on a map, in route order.
 Planned
 
-The board: jobs today, waiting for a tech, visits due and agreements ending.
+The board: today's jobs, jobs waiting for a tech, visits due and agreements ending.
 
 In the field
 
-The tech's day, on their phone.
+Your techs' day, on their phones.
 
 My day
-The shift, and each job with its address and window.
+Their shift and each job with its address and arrival window.
 
-Start and finish from the phone
-What was done, the parts used and pictures; the office sees it at once.
+Start and finish jobs
+Techs log the work, parts used and photos from their phone. The office sees it right away.
 
-The customer's sign-off
-Their acknowledgment, typed and timed.
+Customer sign-off
+The customer signs on the tech's phone, with their typed name and the time.
 
 Estimates and invoice amounts
-Recorded on the job; Oneway never charges a card.
+Record estimate and invoice amounts on the job. Oneway doesn't charge cards.
 
 On my way
-The tech's step from the phone; the board says On the way, and the customer is told in the App.
+The tech taps On my way, the board updates, and the customer is notified in the App.
 
-A price book
-Line items, and good, better and best options chosen on the job, becoming its estimate and invoice lines.
+Price book
+Your line items and good, better, best options. What the customer picks becomes the estimate and invoice.
 
 Follow-ups
-A day and what for, on the board when it comes due.
+Set a follow-up date and reason. It shows on the board when it's due.
 
 Equipment and agreements
 
-Every unit's history, every renewal on time.
+Equipment history and service agreements.
 
-Units on record
+Customer equipment
 Make, model, serial, install year, refrigerant, tonnage and warranty.
 
-Last time this happened
-A job on a unit arrives knowing everything it has been through.
+Service history
+Each job shows the unit's full service history.
 
 Service agreements
-A plan, its yearly value, its term and visits, and the units it covers.
+The plan, its yearly value, term, visits and covered units.
 
-Visits that book themselves
-Due visits on the board, booked as maintenance jobs on the unit.
+Automatic visit booking
+Visits that are due show on the board and are booked as maintenance jobs.
 
 Renewals
-Agreements ending in 60 days listed, renewed from the day the old one ends.
+See agreements ending in the next 60 days and renew them from the day they end.
 
 Recurring billing
-Agreements billed on their own.
+Bill agreements automatically.
 Planned
 
 How it works
@@ -1776,14 +1772,14 @@ A tech is sent
 In a window that fits their shift.
 
 The job is done
-What fixed it, on the unit's record.
+The fix is saved to the unit's history.
 
 The next visit
 Booked from the agreement, renewed on time.
 
 Who it is for
 
-Shops that keep homes and buildings comfortable.
+For heating, cooling and home service companies.
 
 Residential HVAC
 Furnaces, air conditioners and heat pumps.
@@ -1809,7 +1805,7 @@ At a glance
 
 Oneway HVAC Service Operations, in facts.
 
-What it is Oneway HVAC runs a heating and cooling company's calls, technicians and jobs, from the first call to the finished job, with every unit's history and service agreement.
+What it is Oneway HVAC runs your heating and cooling business from the first call to the finished job: dispatch, your techs' day on their phones, equipment history and service agreements.
 Part of Oneway OS, as a industry system of Business OS.
 Runs on, and brings Asset Management, Maintenance.
 Where it runs In Oneway OS, in a web browser on a computer or a phone.
@@ -1818,6 +1814,82 @@ Status In the Closed Selective Server Beta, by invitation, in New York City and 
 Made by Oneway Technologies LLC, New York.
 
 Run your service company from one place.
+Talk to us Business OS
+
+Our Mission
+App
+OS
+Business OS
+Developer OS
+Security
+Contact
+
+Support
+Safety
+Community Guidelines
+Accessibility
+Glossary
+
+Oneway Arcade
+
+Privacy
+Terms
+Data Deletion
+Corporate Charter
+
+2027, Oneway Technologies LLC
+Oneway, the Oneway App and Oneway OS are made by Oneway Technologies LLC, New York.
+
+---
+
+## Oneway Systems
+
+Source: https://onewayos.com/systems/
+
+Our Mission App OS Security Contact
+
+Sign in
+
+Oneway OS › Systems
+Systems
+
+Oneway Systems.
+
+Every System you can add to a Center today, and what each one does. Systems come with Business OS.
+
+Part of Business OS, by contact, in the Closed Selective Server Beta.
+
+Talk to us
+
+Built today
+
+Every System, and what it does.
+
+Customer Relationships Customer profiles with their full history, deals and pipelines, follow-ups and reminders, companies, saved lists, contact preferences, import and export.
+Inventory Stock by location and shelf, counting by scanning, lots and expiration dates, purchase orders and deliveries, recipes and food cost, and sales that update stock.
+Asset Management A list of everything you own, check-out and return, warranties, condition and downtime, audits, custom groups and cost of ownership.
+Maintenance Work orders by priority, requests from the App, preventive maintenance by date and usage, inspections, vendors, reserved parts and labor hours.
+Scheduling Weekly schedules, open shifts filled automatically, swaps and time off, a time clock, payroll export and labor cost vs. sales.
+Reservations Rooms, tables, courts and spaces booked from the App, with booking hours, who can book, a bookings list for staff and empty time to fill.
+Rewards & Membership Tiers and perks, credits earned and spent, member cards in the App, and cards from other programs.
+Community Management Members, join requests you can approve or decline, invitations, and who joined this week. Free on Oneway OS.
+Hotel Operations Rooms, rates and group blocks, the front desk and folios, house accounts, housekeeping, guest notes and the night audit.
+Restaurant Operations Tables and the floor plan, the waitlist, seating and table status, and the 86 list.
+Property Management Units and leases, rent charged and paid, late fees, renewals, notices and move-outs.
+Casino Operations Slot machines and tables on the floor, hand pays, and each guest's limits and exclusions.
+HVAC Service Operations Calls and dispatch, your techs' day on their phones, equipment history, service agreements, a price book and good, better, best quotes.
+Events Create and edit events, RSVPs in the App, tickets, capacity and waitlists, check-in at the door, and promotion by other businesses.
+Communications One shared inbox, saved and automatic replies, and notes to your team.
+Marketing Offers, one post to every platform with photos sized for each, campaigns with a calendar, and a check of where your business info is out of date.
+People Roles that control what each person can do, and permit reminders before they expire.
+
+Their pages
+
+Each System, on its own page.
+
+Oneway CRM Oneway Inventory Management Oneway Asset Management Oneway Hotel Operations Oneway HVAC Service Operations Oneway Scheduling Oneway Reservations Oneway Maintenance Oneway Communications Oneway Marketing Oneway Events Oneway Team Oneway Rewards
+
+Bring your business to Oneway OS.
 Talk to us Business OS
 
 Our Mission
@@ -1859,20 +1931,20 @@ Core System
 
 Inventory Management.
 
-Oneway Inventory tracks stock levels, orders, sales and deliveries across your supply chain, so your business has the right amount of goods in the right place at the right time.
+Oneway Inventory tracks your stock, purchase orders, sales and deliveries, so you always have the right amount of everything in the right place.
 
 Replaces MarketMan or Restaurant365.
 
-And it does what they can't on their own, because every System here shares one set of records.
+Plus what they can't do, because it's connected to the rest of your business.
 
-A dish sold takes its ingredients
-A dish rung up at the register takes each of its ingredients off the shelf, costed from the invoices.
+Recipes that take stock
+When a dish sells on Square, its ingredients are taken out of inventory.
 
-A repair takes its parts
-Parts are held for the work order and taken when it is done; their cost lands on the repair and on the thing it fixed.
+Parts for repairs
+Parts for a repair are set aside until the job is done, and their cost goes on the repair.
 
-Every item is a thing you own
-Stock lives in Asset Management's register, on the same map as everything else.
+Stock and equipment together
+Your stock and your equipment are tracked in one place.
 
 Part of Business OS, by contact, in the Closed Selective Server Beta. What is still being built is marked Planned.
 
@@ -1882,146 +1954,146 @@ Inventory Management in Oneway OS, with sample records.
 
 Stock levels
 
-The right amount, in every place.
+Know what you have, everywhere.
 
 Items, packs and variants
-A unit, pack sizes, a SKU and a barcode; sizes and colours each counted on their own.
+Each item with its unit, pack sizes, SKU and barcode. Sizes and colors are counted separately.
 
-By place and by shelf
-Stock where it actually sits, in every place the business keeps it.
+By location and shelf
+See exactly where stock is, in every storage area and location.
 
-Counts
-A whole place or item by item; the difference shown at once, booked by an owner.
+Stock counts
+Count a whole area or item by item. Differences show right away and an owner approves them.
 
-Waste with a reason
-Spoiled, damaged, expired, lost or used in house, each in dollars.
+Waste tracking
+Log spoiled, damaged, expired, lost or comped items, with the dollar cost.
 
-One history
-Every change kept for good; on hand is never typed over.
+Full history
+Every change is recorded. Quantities are never just overwritten.
 
-Lots and expiry
-Each delivery's lot and the day it expires; the soonest used first, what expires this week said.
+Lots and expiration dates
+Track each delivery's lot and expiration date. The oldest is used first, and you see what expires this week.
 
-A count sheet, by scanning
-A whole place counted on one screen, a scanner or the phone's camera adding each one; labels printed.
+Count by scanning
+Count an area on one screen with a barcode scanner or your phone's camera, and print labels.
 
-Every item is one of the business's things: on the map by place, with its own history.
+Every item on the map by location, with its own history.
 
 Orders and deliveries
 
-Ordered before it runs out, received as it comes.
+Reorder before you run out.
 
 Par and reorder points
-Per place or for the whole business; owners told once when it runs low.
+Set them per location or for the whole business. Owners get one alert when stock runs low.
 
-A demand forecast
-When each item will run out at today's pace, and when to order.
+Demand forecast
+See when each item will run out at the current pace, and when to reorder.
 
-Orders drafted for you
-What is low, onto its supplier's order, filled to par and rounded to the pack.
+Purchase orders drafted for you
+Low items are added to each supplier's order, filled back to par and rounded to full packs.
 
-Approved and on its way
-An owner approves the order and marks it sent; open orders are listed until they arrive.
+Approvals
+An owner approves each order and marks it sent. Open orders stay listed until they arrive.
 
-Deliveries received
-Received in part or in full, at the invoice's cost; what never came is said.
+Receiving
+Receive all or part of an order at the invoice cost, and see what never showed up.
 
-Suppliers measured
-Their stated lead time beside the real one, fill rate and on-time count.
+Supplier performance
+Promised vs. actual lead times, fill rate and on-time deliveries for each supplier.
 
-Deliveries due and late
-Each order due from its supplier's days; the late ones first, in the room's Now.
+Late deliveries
+See which orders are due and which are late, with late ones at the top.
 
 Sending orders to suppliers
-A purchase order by email or PDF.
+Send purchase orders by email or PDF.
 Planned
 
 Sales
 
-Every sale takes its stock.
+Sales update your stock.
 
 Sales from Square
-Sales pulled from Square take stock by SKU, line by line.
+Square sales reduce stock by SKU, line by line.
 
-The Shop and pickup orders
-Held while the order waits, taken when it is paid or picked up.
+Online and pickup orders
+Stock is set aside while an order is open and deducted when it's paid or picked up.
 
-Sold out, everywhere
-A product at zero shows Sold out in the Shop and the App, and returns with new stock.
+Sold out everywhere
+When a product hits zero it shows Sold out in your Shop and the App, and comes back when you restock.
 
 Other points of sale
-Shopify POS, Clover, Toast and Lightspeed sales taking stock.
+Shopify POS, Clover, Toast and Lightspeed sales updating stock.
 Planned
 
-Recipes and plate cost
-A dish sold takes its ingredients; its cost from the invoices, its food cost against its price.
+Recipes and food cost
+Selling a dish deducts its ingredients. See each dish's cost from your invoices and its food cost percentage.
 
 Products for sale
-An item offered in the Shop and the App, hidden until a person publishes it.
+Sell an item in your Shop and the App. It stays hidden until you publish it.
 
 Across places
 
-One supply chain, every place in it.
+Every location, one system.
 
-Moved between places
-From one place and shelf to another, both halves in one step.
+Transfers
+Move stock between locations and shelves in one step.
 
-Property to property
-Sent to another property of the same business, found there by its SKU.
+Between properties
+Send stock to another property you own. It's matched there by SKU.
 
-Every property at once
-On hand, low items and open orders for each property, side by side.
+All properties at a glance
+Stock on hand, low items and open orders for every property, side by side.
 
-Stock per place, and what to move
-Each item by place, and a move offered where one place is short and another has more.
+What to move where
+See each item by location, with suggested transfers when one place is short and another has extra.
 
-Parts on a work order
-Their cost lands on the repair, and on the thing it fixed.
+Parts used on repairs
+The cost of parts goes on the repair and on the equipment it fixed.
 
-Parts installed in things
-A part's one life: in stock, installed, removed, repaired or disposed of.
+Installed parts
+Follow each part from stock to installed, removed, repaired or thrown out.
 
 Transfers suggested across properties
-Stock one property has to spare, offered where another runs low.
+Extra stock at one property suggested where another is running low.
 Planned
 
 How it works
 
-A movement, every time.
+From order to sale.
 
-It is ordered
-Before it runs out, from its supplier, approved by an owner.
+Order
+Before you run out, from the supplier, approved by an owner.
 
-It arrives
-Received against its order, at the invoice's cost.
+Receive
+Checked against the order at the invoice cost.
 
-It is kept
-On a shelf in a place, counted when you count, moved where it is needed.
+Store
+On a shelf, counted when you count, moved where it's needed.
 
-It is sold or used
-By a sale, a department or a repair, and ordered again.
+Sell or use
+In a sale, by a department or on a repair, then reorder.
 
 Who it is for
 
-Anyone who keeps things on a shelf.
+For any business that keeps stock.
 
 Hotels
-Linen, amenities and engineering's parts.
+Linens, amenities and maintenance parts.
 
 Restaurants and bars
 Food and drink, counted and costed.
 
 Shops
-What is for sale, and what is left.
+What you sell and what's left.
 
 Service companies
-The parts every truck carries.
+The parts on every truck.
 
 At a glance
 
 Oneway Inventory Management, in facts.
 
-What it is Oneway Inventory tracks stock levels, orders, sales and deliveries across your supply chain, so your business has the right amount of goods in the right place at the right time.
+What it is Oneway Inventory tracks your stock, purchase orders, sales and deliveries, so you always have the right amount of everything in the right place.
 Part of Oneway OS, as a core system of Business OS.
 Where it runs In Oneway OS, in a web browser on a computer or a phone.
 Price Part of Business OS, set up by contact. See its plan ; Oneway OS alone is free.
@@ -2070,20 +2142,20 @@ Module
 
 Maintenance.
 
-Oneway Maintenance turns every problem anyone reports into a work order, keeps preventive upkeep on schedule, and shows what each repair cost.
+Oneway Maintenance turns every reported problem into a work order, keeps preventive maintenance on schedule, and shows what each repair cost.
 
 Replaces UpKeep or Limble.
 
-And it does what they can't on their own, because every System here shares one set of records.
+Plus what they can't do, because it's connected to the rest of your business.
 
-Work on the things you own
-Work lands on Asset Management's register: each thing's downtime and cost of ownership.
+Repair history on every item
+Every repair is logged on the equipment it fixed, so you see downtime and total cost per item.
 
-Requests from the App
-Guests and members report a problem, with a picture, where they already are.
+Guests report problems in the App
+Guests and members report a problem with a photo right from the Oneway App.
 
-One shelf, one repair
-Parts are held on Inventory's shelf for the job and taken when it is done, never listed twice.
+Parts from your stock
+Parts for a job are set aside from inventory and used when the work is done.
 
 Part of Business OS, by contact, in the Closed Selective Server Beta.
 
@@ -2093,68 +2165,68 @@ Maintenance in Oneway OS, with sample records.
 
 Work orders
 
-Every problem, one work order.
+Every problem becomes a work order.
 
-Open, hand on, close
-Opened, assigned and told, closed with what fixed it, its cost, parts, hours and pictures.
+Create, assign, close
+Create a work order, assign it (the person is notified), and close it with the fix, cost, parts, hours and photos.
 
-How urgent
-Low, medium or high, ranked in the queue.
+Priority
+Low, medium or high, sorted in the queue.
 
 On hold
-Waiting on a part or a vendor, said, never lost as in progress.
+Mark jobs waiting on a part or vendor so they don't look in progress.
 
-The board
-To do, started and on hold, moved by hand.
+Work board
+Drag jobs between To do, Started and On hold.
 
-Requests
-Reported from the Oneway App by guests, members and staff, with a picture, each answer told.
+Requests from the App
+Guests, members and staff report problems with a photo from the Oneway App, and get updates.
 
-Steps on the job
-A checklist's steps on the work order, ticked, and Done refused while one is left.
+Checklists
+Add checklist steps to a job. It can't be marked done until every step is checked.
 
-The work as a board: to do, started, on hold.
+The work board: to do, started and on hold.
 
 Upkeep
 
-Before it breaks.
+Fix it before it breaks.
 
-Preventive by time
-Every so many days, with a lead, never piling up; on-time compliance said.
+Preventive maintenance by date
+Schedule jobs every so many days, with lead time so they don't pile up, and track on-time completion.
 
-Preventive by meter
-Every so many hours or uses, read by a person or by the equipment's sensor.
+Preventive maintenance by usage
+Schedule jobs by hours or uses, from manual readings or the equipment's sensors.
 
 Inspections
-A checklist walked and finished, lease inspections included.
+Run inspection checklists, including lease inspections.
 
-Incidents
-One thing that keeps failing, read as one incident with what fixed it last time.
+Repeat problems
+When the same equipment keeps failing, it's grouped as one incident with what fixed it last time.
 
 Who does it
 
-The right hands, at the right cost.
+Your team, vendors and parts.
 
-The technician's phone
-Their work, Start and Done, what fixed it, hours and pictures, offline steps kept.
+Tech app
+Techs see their jobs, tap Start and Done, log the fix, hours and photos, and keep working offline.
 
 Vendors
-Sent with a not-to-exceed and a private link to the job, accepted or declined, done with its cost.
+Send a job to a vendor with a not-to-exceed amount and a private link. They accept or decline and close it with the cost.
 
-Parts reserved before the job
-Held in Inventory for the work order, used when it is done, let go if it is cancelled.
+Reserved parts
+Parts are held in inventory for the job, used when it's done, and released if it's canceled.
 
-Parts from Inventory
-Parts used come off the shelf, their cost on the repair.
+Parts from inventory
+Parts used are taken from stock and their cost is added to the repair.
 
 Escalation
-Work nobody takes is raised, by rules the Center sets.
+Jobs nobody picks up are escalated using rules you set.
 
-Hours from the clock
-Done fills the hours from its Start, to the quarter hour, unless hours are said; on hold, the clock pauses.
+Labor hours
+Hours are filled in from Start to Done, to the quarter hour, unless entered by hand. The clock pauses while a job is on hold.
 
-Why it broke
-Said when the work is done, kept on the thing's upkeep and counted in the report.
+Failure reasons
+Record why it broke when the job is done. It's saved on the equipment and counted in reports.
 
 How it works
 
@@ -2164,13 +2236,13 @@ Reported
 From the App, the desk or a schedule.
 
 Assigned
-To a person or a vendor, told.
+To a person or vendor, who's notified.
 
 Done
 What fixed it, the parts, the hours and the cost.
 
-Learned
-Downtime and repeat failures, per thing.
+Tracked
+Downtime and repeat failures for each item.
 
 Who it is for
 
@@ -2183,10 +2255,10 @@ Rental property
 Units and the tenants' requests.
 
 Restaurants
-The kitchen's equipment.
+Kitchen equipment.
 
 Venues and clubs
-Everything the night depends on.
+Everything you need working on a busy night.
 
 Comes with these Systems
 
@@ -2197,7 +2269,7 @@ At a glance
 
 Oneway Maintenance, in facts.
 
-What it is Oneway Maintenance turns every problem anyone reports into a work order, keeps preventive upkeep on schedule, and shows what each repair cost.
+What it is Oneway Maintenance turns every reported problem into a work order, keeps preventive maintenance on schedule, and shows what each repair cost.
 Part of Oneway OS, as a module of Business OS.
 Comes with Hotel Operations System, Property Management System.
 Where it runs In Oneway OS, in a web browser on a computer or a phone.
@@ -2205,7 +2277,7 @@ Price Part of Business OS, set up by contact. See its plan ; Oneway OS alone is 
 Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
 Made by Oneway Technologies LLC, New York.
 
-Fixed, and kept running.
+Fix it fast and keep it running.
 Talk to us Business OS
 
 Our Mission
@@ -2247,7 +2319,7 @@ Module
 
 Marketing.
 
-Oneway Marketing makes your offers and events, shapes each picture for every platform, and shows everywhere your business appears and where it is out of date.
+Oneway Marketing creates your offers and posts, sizes each photo for every platform, schedules campaigns, and shows you where your business info is out of date online.
 
 Part of Business OS, by contact, in the Closed Selective Server Beta. What is still being built is marked Planned.
 
@@ -2257,86 +2329,110 @@ Marketing in Oneway OS, with sample records.
 
 Everywhere you appear
 
-Every record, every place it reaches.
+See where your business shows up.
 
-The projection board
-Hours, phone, offers, events and posts against the App, the web and Google, one dot each.
+Listings board
+Your hours, phone, offers, events and posts checked across the App, the web and Google.
 
-What is out of step
-A place that says something else, or nothing, said in one sentence.
+What's out of date
+Any place showing the wrong info, or nothing, called out clearly.
 
 Connected platforms
-Each post's receipt from each platform it was published to.
+Confirmation from each platform a post went to.
 
-Your ads, read
-Google Ads and Meta ad accounts and their last seven days.
+Ad results
+Your Google Ads and Meta ad accounts and their last seven days.
 
-Every record of the business against every place it reaches.
+Google listing check
+Pull your Google listing's hours, phone, website, description and photos with one click. Any differences wait for your OK.
+
+Your business info, checked everywhere it appears.
 
 Offers
 
-What you are offering, right now.
+Offers, posts and campaigns.
 
 Offers
-A package, a promotion or a special, published and ended.
+Publish a package, promotion or special, and end it when you're done.
 
 Events
-Put on once, shown in the App, on the web and wherever it is promoted.
+Create it once and it shows in the App, on the web and wherever it's promoted.
 
-One picture, every shape
-A photograph cut for the App, stories, Instagram, Facebook, links, Google and email.
+Photos sized for every platform
+One photo cropped for the App, stories, Instagram, Facebook, link previews, Google and email.
 
-One post, everywhere
-Written once, on the App and the web and each platform the Center has connected, each in its own shape.
+Post everywhere at once
+Write one post and it goes to the App, the web and every platform you've connected, formatted for each.
+
+Campaigns from your events and offers
+Pick an event or offer and Oneway schedules its posts, like a reminder the day before an event, and can stop them any time.
+
+A marketing calendar
+Every scheduled and published post for the month, in one calendar.
+
+Posts that stay accurate
+If an event moves or an offer changes, the posts that are now wrong are flagged and redrafted when you say so.
+
+Approval before posting
+A teammate's campaign waits as drafts until an owner or admin approves it. You can require approval for every campaign.
+
+Post results
+See how many times each post's link was opened and from where, how many RSVPs it brought, and how many came. It never tracks who opened it.
+
+Results from Facebook and Instagram
+See each campaign post's likes, comments, shares, saves and reach on Facebook and Instagram when you ask, next to its response in the App.
+
+Best time to post
+Campaign posts go out at the time of day your own posts get the most response, once there are enough posts to tell.
 
 Email campaigns
-An offer sent to a list of customers.
+Send an offer to a list of customers.
 Planned
 
-Ads made here
-An ad started and paid for from Oneway.
+Create ads
+Create and pay for ads from Oneway.
 Planned
 
 The difference
 
-Marketing from the truth.
+Your info, right everywhere.
 
-A marketing tool keeps its own copy of the business. Here every surface reads the Center's own record.
+Most marketing tools keep their own copy of your business. Oneway uses your one record.
 
-Change it once
-Hours and offers change everywhere they are shown.
+Update once
+Change your hours or an offer once, and it changes everywhere it's shown.
 
-Said when out of step
-A place still saying the old thing is named.
+Catch what's out of date
+See which places online still show old hours or info.
 
-Never stretched
-Each picture cut around its focus, the original untouched.
+Photos that fit
+Each photo is cropped around its subject for every platform, and your original is kept.
 
 How it works
 
-From one record to everywhere.
+Update once, show everywhere.
 
-Say it once
-Facts, offers and events on the Center.
+Enter it once
+Your info, offers and events.
 
-Shape it
-Each picture for each surface.
+Format it
+Photos sized for each platform.
 
 Send it out
 The App, the web and each connected platform.
 
-Read it back
-Where it arrived, and where it did not.
+Check it
+See where it went out and where it didn't.
 
 Who it is for
 
 Any business that wants to be found.
 
 Hotels
-Packages, events and the rate of the week.
+Packages, events and weekly rates.
 
 Restaurants
-Specials, hours and the night's music.
+Specials, hours and live music.
 
 Venues
 Every show, everywhere.
@@ -2354,7 +2450,7 @@ At a glance
 
 Oneway Marketing, in facts.
 
-What it is Oneway Marketing makes your offers and events, shapes each picture for every platform, and shows everywhere your business appears and where it is out of date.
+What it is Oneway Marketing creates your offers and posts, sizes each photo for every platform, schedules campaigns, and shows you where your business info is out of date online.
 Part of Oneway OS, as a module of Business OS.
 Comes with Casino Operations System, Events, Restaurant Operations System.
 Where it runs In Oneway OS, in a web browser on a computer or a phone.
@@ -2362,7 +2458,7 @@ Price Part of Business OS, set up by contact. See its plan ; Oneway OS alone is 
 Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
 Made by Oneway Technologies LLC, New York.
 
-Said once, everywhere.
+Update once. Show up everywhere.
 Talk to us Business OS
 
 Our Mission
@@ -2414,96 +2510,96 @@ Reservations in Oneway OS, with sample records.
 
 What is booked
 
-Anything your place offers, bookable.
+Make anything bookable.
 
-Bookable things
-A room, a table, a court, a boat or a space: any of the Center's things takes bookings.
+Bookable items
+Rooms, tables, courts, boats or event spaces. Anything you own can take bookings.
 
-Its hours
-When each one takes bookings, day by day.
+Booking hours
+Set when each item can be booked, day by day.
 
-Who may book
-Anyone, or only the Center's members, thing by thing.
+Who can book
+Open to anyone or members only, item by item.
 
 Availability
-What is free and when, read before anyone books.
+See what's free and when before anyone books.
 
-A grid across things
-The day drawn as a timeline across every bookable thing.
+Booking grid
+A timeline of the day across everything bookable.
 Planned
 
-What can be booked, with its hours and its rules.
+What can be booked, with its hours and rules.
 
 Booking
 
-Booked from the App, kept in one book.
+Bookings from the App, all in one place.
 
-Booked from the App
-A person books from the Center's page and sees their bookings in their own.
+Book in the App
+People book from your page in the Oneway App and see their bookings in their account.
 
-Cancelled by the guest
-A guest cancels their own booking, and the time is free again.
+Guest cancellations
+Guests can cancel their own booking and the time opens back up.
 
-The desk's book
-The day's bookings, waiting on you and from today on.
+Bookings list
+Today's bookings, ones waiting on you, and everything coming up.
 
 Confirm, check in, check out
-The desk moves each booking through its day.
+Staff confirm, check in and check out each booking.
 
-Booked and changed by the desk
-A booking made for a guest; its time, party size or table changed, never onto one already held.
+Staff bookings and changes
+Staff can book for a guest or change the time, party size or table, without double-booking.
 
 Deposits and cards on file
-A deposit taken when the booking is made.
+Take a deposit when the booking is made.
 Planned
 
 Filling the time
 
-Nothing booked is an opportunity.
+Fill your empty time.
 
-Idle things
-Every bookable thing with nothing booked in the coming days, said.
+Unbooked items
+See everything with no bookings in the coming days.
 
-Offered as a space
-An idle thing proposed as a space opportunity, published by its owner.
+List it as a space
+Suggest an unbooked item as a space to rent, published when you approve.
 
 Shown everywhere
-The same booking facts shaped for a Popit, a Center page, an event and the web.
+The same booking info shown on your page, in widgets, on events and on the web.
 
 The difference
 
-Booked where people already are.
+Book right in the Oneway App.
 
-A booking widget waits on a website. Here the Center's page in the App is where people book.
+Most booking tools are a widget on your website. With Oneway, people book from your page in the App they already use.
 
-Every thing is a thing you own
-Bookable things live in Asset Management's register.
+Part of your asset list
+Bookable items are tracked in Asset Management.
 
-One book for the desk
-Rooms, tables and courts in one place.
+One list for staff
+Rooms, tables and courts all in one place.
 
-Idle time said
-What nobody booked is proposed as something to offer.
+Empty time flagged
+Unbooked time is suggested as something you can offer.
 
 How it works
 
-From a free hour to a full one.
+From empty to booked.
 
 Make it bookable
-Choose a thing and its hours.
+Choose an item and its hours.
 
 People book
-From the Center's page in the Oneway App.
+From your page in the Oneway App.
 
-The desk runs the day
+Staff run the day
 Confirm, check in, check out.
 
-Idle time offered
-What nobody booked becomes an offer.
+Fill empty time
+Unbooked time becomes an offer.
 
 Who it is for
 
-Anywhere people book a time.
+For anywhere people book a time.
 
 Hotels and resorts
 Rooms, the spa, cabanas and courts.
@@ -2537,7 +2633,7 @@ Price Part of Business OS, set up by contact. See its plan ; Oneway OS alone is 
 Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
 Made by Oneway Technologies LLC, New York.
 
-Every hour, bookable.
+Make every hour bookable.
 Talk to us Business OS
 
 Our Mission
@@ -2592,79 +2688,79 @@ The program
 Your program, your rules.
 
 Tiers and benefits
-Each tier named, the credits it takes, and what it gives.
+Name each tier, set how many credits it takes, and choose what it gives.
 
-Earned for activity
-Credits posted for a stay, a meal or a visit.
+Earn credits
+Members earn credits for stays, meals or visits.
 
-Redeemed
-Credits spent at the place, kept on the card.
+Redeem credits
+Members spend credits with you, tracked on their card.
 
-Lapsing credits
-Credits that expire after the program's months, by a run the owner checks first.
+Expiring credits
+Credits expire after the period you set. An owner reviews each expiration run first.
 
-Adjusted with a reason
-A card corrected, the reason kept.
+Adjustments
+Correct a member's balance and keep the reason.
 
 The program's tiers, and its members.
 
 Members
 
-Every member, one card.
+Members and cards.
 
-Enrolled anywhere
-From a customer record, a Oneway person or a name, or joined in the App.
+Easy enrollment
+Enroll from a customer profile, a Oneway account or just a name, or let people join in the App.
 
-Their card in the App
-Each member reads their own card, and chooses what they share.
+Card in the App
+Members see their card in the App and choose what they share.
 
 Cards from other programs
-A member links the card they already hold; a provider's export confirms it.
+Members link cards they already have from other programs, confirmed by the provider's records.
 
-Recognized elsewhere
-Whose standing this Center honours, and as what.
+Honor other programs
+Choose which other programs' status you honor, and at what level.
 
-Beside a casino's own program
-Where a casino's own system runs the program, Oneway notes what it reports and does nothing itself.
+Works with casino loyalty systems
+If your casino already runs its own loyalty system, Oneway records what it reports and leaves the program to it.
 
 Offers to a tier
-An offer addressed to members of one tier.
+Send an offer to members of one tier.
 Planned
 
 The difference
 
-A card people already carry.
+No extra app to download.
 
-A loyalty app is one more app to download. Here the card lives in the Oneway App members already use.
+Most loyalty programs need their own app. With Oneway, the card is in the App members already use.
 
 In the App
-The member's card, beside the place's page.
+The member's card is right on your page.
 
-Their choice
-What a member shares with the place, they decide.
+Members choose
+Members decide what they share with you.
 
 Other programs welcome
-A card from another program, linked, never copied.
+Link a card from another program without copying its data.
 
 How it works
 
 From a visit to a reward.
 
-Enrol
+Enroll
 At the desk, from the CRM, or in the App.
 
 Earn
-Credits for what members do.
+Credits for stays, meals and visits.
 
-Rise
-Tiers with their benefits.
+Move up
+Higher tiers, better perks.
 
 Redeem
-Credits spent at the place.
+Spend credits with you.
 
 Who it is for
 
-Any place people come back to.
+For any place people come back to.
 
 Hotels and resorts
 Nights, upgrades and the spa.
@@ -2673,10 +2769,10 @@ Restaurants and bars
 Meals and the regulars.
 
 Casinos
-Play and comps, beside the casino's own program.
+Play and comps, alongside your existing program.
 
 Clubs
-Members and their standing.
+Members and their status.
 
 Comes with these Systems
 
@@ -2736,20 +2832,20 @@ Module
 
 Scheduling.
 
-Oneway Scheduling builds your team's week of shifts, lets people claim, swap and take time off, and keeps the clock and the cost of every hour.
+Oneway Scheduling builds your weekly schedule, lets staff swap shifts and request time off from their phones, and tracks hours and labor cost.
 
 Replaces 7shifts or Homebase.
 
-And it does what they can't on their own, because every System here shares one set of records.
+Plus what they can't do, because it's connected to the rest of your business.
 
-From the book
-How many people a day needs, read from its own bookings and events.
+Labor cost vs. sales
+See labor as a percent of sales, using the sales your POS already sends to Oneway.
 
-Against the sales
-Labour weighed against the sales your registers already report to Oneway.
+Staffing based on bookings
+Schedule the right number of people each day, based on your reservations and events.
 
-One team
-The same people the Center's roles and permits name, never a second list.
+One staff list
+Your staff and their roles live in one place, with no separate employee list to keep up.
 
 Part of Business OS, by contact, in the Closed Selective Server Beta.
 
@@ -2759,119 +2855,119 @@ Scheduling in Oneway OS, with sample records.
 
 The week
 
-A week of shifts, published once.
+Build and publish the week.
 
 Shifts by role
-Each shift with its hours and role, edited until the week is published.
+Set each shift's hours and role, and edit freely until you publish.
 
 Open shifts
-A shift nobody has yet, claimed by someone who can take it.
+Post a shift with nobody on it and let qualified staff claim it.
 
-Publish the week
-The team reads its week once it is published, each person their own.
+Publishing
+Once published, each person sees their own schedule.
 
 Availability
-Each person says when they can work.
+Staff set when they can work.
 
 Copy last week
-A week's shifts copied into the next as drafts, never twice.
+Copy a week's shifts into next week as drafts.
 
 Shift reminders
-Each person reminded once in the two hours before a published shift.
+Staff get a reminder within two hours before their shift.
 
-Open shifts filled by rule
-Each open shift offered to the first person free, rested, available and under overtime.
+Auto-fill open shifts
+Open shifts go to the first person who's free, rested, available and under overtime.
 
-The week, shift by shift: who has it, or nobody yet.
+The week, shift by shift, including open shifts.
 
 The team
 
-Swaps and time off, decided by a manager.
+Swaps and time off, approved by a manager.
 
-Offer and swap
-A shift offered to the team, taken or swapped, the change decided once by a manager.
+Shift swaps
+Staff can give away or swap shifts, and a manager approves the change.
 
 Cancel a shift
-A published shift cancelled, its person told.
+Cancel a published shift and the person is notified.
 
-Time off
-Asked for, decided, and kept out of the schedule.
+Time off requests
+Staff request time off, a manager decides, and approved time off is blocked from the schedule.
 
-Notes on the week
-A note to the team, and who has seen it.
+Team notes
+Post a note to the team and see who's read it.
 
-Who is on
-Everyone on a shift, from the shift itself.
+Who's working
+See everyone on shift right now.
 
 Time and cost
 
-Every hour clocked, and what it cost.
+Hours and labor cost.
 
-The time clock
-Clocked in and out; a punch corrected or voided, with who did it.
+Time clock
+Staff clock in and out. Managers can fix or void a punch, and it's logged.
 
-Timesheets approved
-The week's hours approved by a manager.
+Timesheet approval
+Managers approve each week's hours.
 
 Pay rates
-An hourly rate per person from the day it starts, kept by an owner.
+Set each person's hourly rate and when it starts. Only owners can change it.
 
-Labour against sales
-The day's and the week's labour cost, and its share of sales.
+Labor cost vs. sales
+Daily and weekly labor cost, and labor as a percent of sales.
 
-Staffing from the book and the sales
-How many people a day's bookings, events and forecast sales need, beside who is scheduled.
+Staffing to demand
+Compare how many people you've scheduled with how many your bookings, events and forecast sales call for.
 
-Timesheets out for payroll
-Hours, overtime, rate and cost per person, as a sheet for the payroll provider.
+Payroll export
+Export hours, overtime, rates and cost per person as a spreadsheet for your payroll provider.
 
-Clock-in at the place
-Where an owner asks for it, a clock-in only near the place; the location never kept.
+Location check at clock-in
+Optionally require staff to be on site to clock in. Their location is never stored.
 
 How it works
 
-A week, every week.
+How a week works.
 
 Build the week
-Shifts by role, with the open ones left open.
+Add shifts by role and leave some open.
 
 Publish it
-Everyone reads their own week.
+Everyone sees their own schedule.
 
-The team settles it
-Claims, swaps and time off, decided by a manager.
+The team adjusts
+Claims, swaps and time off, approved by a manager.
 
-Clock and cost
-Hours clocked, approved, and weighed against sales.
+Track hours and cost
+Hours clocked, approved and compared to sales.
 
 Who it is for
 
-Any team that works in shifts.
+For any team that works shifts.
 
 Hotels
-The desk, housekeeping and engineering around the clock.
+Front desk, housekeeping and maintenance, around the clock.
 
 Restaurants and bars
-The floor and the kitchen, against the night's sales.
+Front and back of house, scheduled against sales.
 
 Venues
 The crew each event needs.
 
 Shops and services
-Opening hours covered, every day.
+Every opening hour covered.
 
 At a glance
 
 Oneway Scheduling, in facts.
 
-What it is Oneway Scheduling builds your team's week of shifts, lets people claim, swap and take time off, and keeps the clock and the cost of every hour.
+What it is Oneway Scheduling builds your weekly schedule, lets staff swap shifts and request time off from their phones, and tracks hours and labor cost.
 Part of Oneway OS, as a module of Business OS.
 Where it runs In Oneway OS, in a web browser on a computer or a phone.
 Price Part of Business OS, set up by contact. See its plan ; Oneway OS alone is free.
 Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
 Made by Oneway Technologies LLC, New York.
 
-The week, built and covered.
+Every shift covered.
 Talk to us Business OS
 
 Our Mission
@@ -2923,74 +3019,74 @@ Team in Oneway OS, with sample records.
 
 Roles
 
-Each person sees their own work.
+Roles and permissions.
 
 Custom roles
-A role named by the business, with the Systems, departments and acts it may use.
+Create roles that control which Systems, departments and actions each person can use.
 
-Assigned
-Each person given a role, and refused outside it, in words.
+Role assignment
+Give each person a role. If they try something outside it, they're told why it's blocked.
 
-Work apart from life
-Work for a Center kept apart from a person's own activity.
+Work kept separate
+Someone's work for your business is kept separate from their personal account activity.
 
 Onboarding checklists
-A new hire's first steps, ticked.
+A checklist of a new hire's first steps.
 Planned
 
-Permits and licenses, each with the day it expires.
+Permits and licenses, each with its expiration date.
 
 Permits
 
-Nothing lapses unnoticed.
+Never miss a permit renewal.
 
 Permits and licenses
-Each with its issuer, holder, number and expiry.
+Track each one's issuer, holder, number and expiration date.
 
-Reminded before it lapses
-Told once, ahead of the day.
+Renewal reminders
+Owners and admins are reminded 60, 30 and 7 days before it expires.
 
-An expired one, said
-On the OS's Home, until it is renewed.
+Expired permits flagged
+Shown on your Oneway OS home screen until it's renewed.
 
 Their time
 
-Shifts and hours, with Scheduling.
+Schedules and hours.
 
-Their week
-Each person's shifts, time off and the clock, from Scheduling.
+Each person's week
+Shifts, time off and clock-ins, from Scheduling.
 
 Payroll
-Pay run and paid through a payroll provider.
+Run payroll through a payroll provider.
 Planned
 
 The difference
 
-One person, one identity.
+One account per person.
 
-An HR tool keeps its own copy of each person. Here each one is the same person across the platform.
+Most HR tools keep a separate copy of each employee. In Oneway, each person has one account across everything.
 
 Their own account
-One Oneway account, a work identity kept apart.
+One Oneway account, with work kept separate.
 
-Roles that refuse
-Outside their role, an act is refused in words.
+Clear permissions
+If something's outside their role, they're told plainly.
 
 The same team everywhere
-Scheduling, Maintenance and the inbox read the same people.
+Scheduling, Maintenance and the inbox all use the same team list.
 
 How it works
 
-From a hire to a team.
+From hire to schedule.
 
 Invite them
-To the Center, with a role.
+With a role.
 
 They see their work
 Only what their role allows.
 
-Keep the papers
-Permits and licenses, reminded.
+Track permits
+With renewal reminders.
 
 Run the week
 With Scheduling.
@@ -3000,13 +3096,13 @@ Who it is for
 Any business with a team.
 
 Hotels
-Every department, its own view.
+Each department sees its own work.
 
 Restaurants
 Front and back of house.
 
 Venues
-The crew and its licenses.
+Crew and their licenses.
 
 Service companies
 Technicians and their certifications.
