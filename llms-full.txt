@@ -1,6 +1,8 @@
 # Oneway OS, every page in words
 
-> The words of every page of Oneway OS on onewayos.com, read on 2026-10-19 from the pages themselves (tools/landing_static.py).
+> The words of every page of Oneway OS on onewayos.com, read on 2026-10-20 from the pages themselves (tools/landing_static.py).
+
+Oneway is a social network and a business platform in one: the Oneway App gives every person one profile, a For You feed, messages and a map of the people and places near them, and Oneway OS runs the businesses, communities and places behind them. It is in a closed beta, by invitation, in New York City and Long Island. Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
 
 ---
 
@@ -26,7 +28,7 @@ View Systems
 
 Business OS
 
-Run your people, Systems and daily work from one Center. Run your whole operation.
+Run your people, Systems and daily work from one Center. Run your whole operation. Oneway OS runs a business, a community or a place: its page, website, posts, events and members for free, and with Business OS, the Systems of its industry, its team and the Brain, for $330 a month per Center.
 
 Explore Business OS Business →
 
@@ -201,6 +203,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
+Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
 
 ---
 
@@ -301,6 +304,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
+Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
 
 ---
 
@@ -444,6 +448,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
+Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
 
 ---
 
@@ -539,6 +544,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
+Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
 
 ---
 
@@ -665,6 +671,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
+Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
 
 ---
 
@@ -752,6 +759,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
+Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
 
 ---
 
@@ -900,6 +908,18 @@ Oneway Maintenance
 Property Management System
 Restaurant Operations System
 
+At a glance
+
+Oneway Asset Management, in facts.
+
+What it is Asset Management tracks every physical thing your business owns: where it is, who has it, what it costs, and the upkeep that keeps it running.
+Part of Oneway OS, as a core system of Business OS.
+Comes with Casino Operations System, Events, Hotel Operations System, Inventory Management, Maintenance, Property Management System, Restaurant Operations System.
+Where it runs In Oneway OS, in a web browser on a computer or a phone.
+Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
+Made by Oneway Technologies LLC, New York.
+
 Know every thing you own.
 Talk to us Business OS
 
@@ -925,6 +945,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
+Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
 
 ---
 
@@ -1040,6 +1061,17 @@ Tickets, guest lists and the night.
 Communities
 Members and their questions.
 
+At a glance
+
+Oneway Communications, in facts.
+
+What it is Oneway Communications puts every message to your business in one shared inbox, answers the routine ones by rule, and tells your team what it needs to know.
+Part of Oneway OS, as a module of Business OS.
+Where it runs In Oneway OS, in a web browser on a computer or a phone.
+Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
+Made by Oneway Technologies LLC, New York.
+
 Every message answered.
 Talk to us Business OS
 
@@ -1065,6 +1097,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
+Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
 
 ---
 
@@ -1219,6 +1252,18 @@ Casino Operations System
 Oneway Hotel Operations
 Restaurant Operations System
 
+At a glance
+
+Oneway CRM, in facts.
+
+What it is Oneway CRM keeps every customer's whole story, from their real bookings, visits and messages, so your team knows who they are and what to do next.
+Part of Oneway OS, as a core system of Business OS.
+Comes with Casino Operations System, Hotel Operations System, Restaurant Operations System.
+Where it runs In Oneway OS, in a web browser on a computer or a phone.
+Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
+Made by Oneway Technologies LLC, New York.
+
 Know your customers by what they do.
 Talk to us Business OS
 
@@ -1244,6 +1289,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
+Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
 
 ---
 
@@ -1360,6 +1406,17 @@ Meetings, classes and festivals.
 Organizations
 Members' events.
 
+At a glance
+
+Oneway Events, in facts.
+
+What it is Oneway Events puts your events on, lets people answer Going or Maybe in the Oneway App, and checks your guests in at the door.
+Part of Oneway OS, as a module of Business OS.
+Where it runs In Oneway OS, in a web browser on a computer or a phone.
+Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
+Made by Oneway Technologies LLC, New York.
+
 Put it on. See who comes.
 Talk to us Business OS
 
@@ -1385,6 +1442,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
+Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
 
 ---
 
@@ -1546,6 +1604,18 @@ Oneway Reservations
 Oneway Maintenance
 Oneway CRM
 
+At a glance
+
+Oneway Hotel Operations, in facts.
+
+What it is Hotel Operations runs a hotel's rooms, rates and guests from one place, from the booking and the front desk to the night audit and housekeeping.
+Part of Oneway OS, as a industry system of Business OS.
+Runs on, and brings Asset Management, Reservations System, Maintenance, Customer Relationships.
+Where it runs In Oneway OS, in a web browser on a computer or a phone.
+Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
+Made by Oneway Technologies LLC, New York.
+
 Run your hotel from one place.
 Talk to us Business OS
 
@@ -1571,6 +1641,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
+Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
 
 ---
 
@@ -1719,6 +1790,18 @@ Brings with it
 
 Oneway Maintenance
 
+At a glance
+
+Oneway HVAC Service Operations, in facts.
+
+What it is Oneway HVAC runs a heating and cooling company's calls, technicians and jobs, from the first call to the finished job, with every unit's history and service agreement.
+Part of Oneway OS, as a industry system of Business OS.
+Runs on, and brings Asset Management, Maintenance.
+Where it runs In Oneway OS, in a web browser on a computer or a phone.
+Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
+Made by Oneway Technologies LLC, New York.
+
 Run your service company from one place.
 Talk to us Business OS
 
@@ -1744,6 +1827,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
+Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
 
 ---
 
@@ -1908,6 +1992,17 @@ What is for sale, and what is left.
 Service companies
 The parts every truck carries.
 
+At a glance
+
+Oneway Inventory Management, in facts.
+
+What it is Oneway Inventory tracks stock levels, orders, sales and deliveries across your supply chain, so your business has the right amount of goods in the right place at the right time.
+Part of Oneway OS, as a core system of Business OS.
+Where it runs In Oneway OS, in a web browser on a computer or a phone.
+Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
+Made by Oneway Technologies LLC, New York.
+
 The right goods, in the right place, at the right time.
 Talk to us Business OS
 
@@ -1933,6 +2028,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
+Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
 
 ---
 
@@ -2068,6 +2164,18 @@ Comes with these Systems
 Oneway Hotel Operations
 Property Management System
 
+At a glance
+
+Oneway Maintenance, in facts.
+
+What it is Oneway Maintenance turns every problem anyone reports into a work order, keeps preventive upkeep on schedule, and shows what each repair cost.
+Part of Oneway OS, as a module of Business OS.
+Comes with Hotel Operations System, Property Management System.
+Where it runs In Oneway OS, in a web browser on a computer or a phone.
+Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
+Made by Oneway Technologies LLC, New York.
+
 Fixed, and kept running.
 Talk to us Business OS
 
@@ -2093,6 +2201,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
+Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
 
 ---
 
@@ -2209,6 +2318,18 @@ Casino Operations System
 Oneway Events
 Restaurant Operations System
 
+At a glance
+
+Oneway Marketing, in facts.
+
+What it is Oneway Marketing makes your offers and events, shapes each picture for every platform, and shows everywhere your business appears and where it is out of date.
+Part of Oneway OS, as a module of Business OS.
+Comes with Casino Operations System, Events, Restaurant Operations System.
+Where it runs In Oneway OS, in a web browser on a computer or a phone.
+Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
+Made by Oneway Technologies LLC, New York.
+
 Said once, everywhere.
 Talk to us Business OS
 
@@ -2234,6 +2355,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
+Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
 
 ---
 
@@ -2365,6 +2487,18 @@ Oneway Hotel Operations
 Property Management System
 Restaurant Operations System
 
+At a glance
+
+Oneway Reservations, in facts.
+
+What it is Oneway Reservations lets people book the things your place offers, a room, a table, a court or a space, from the Oneway App, and runs the book from confirmation to check-out.
+Part of Oneway OS, as a module of Business OS.
+Comes with Casino Operations System, Events, Hotel Operations System, Property Management System, Restaurant Operations System.
+Where it runs In Oneway OS, in a web browser on a computer or a phone.
+Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
+Made by Oneway Technologies LLC, New York.
+
 Every hour, bookable.
 Talk to us Business OS
 
@@ -2390,6 +2524,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
+Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
 
 ---
 
@@ -2506,6 +2641,18 @@ Comes with these Systems
 
 Casino Operations System
 
+At a glance
+
+Oneway Rewards, in facts.
+
+What it is Oneway Rewards runs your loyalty program: members earn credits for what they do at your place, move up tiers, and redeem what they have earned.
+Part of Oneway OS, as a module of Business OS.
+Comes with Casino Operations System.
+Where it runs In Oneway OS, in a web browser on a computer or a phone.
+Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
+Made by Oneway Technologies LLC, New York.
+
 Give them a reason to come back.
 Talk to us Business OS
 
@@ -2531,6 +2678,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
+Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
 
 ---
 
@@ -2670,6 +2818,17 @@ The crew each event needs.
 Shops and services
 Opening hours covered, every day.
 
+At a glance
+
+Oneway Scheduling, in facts.
+
+What it is Oneway Scheduling builds your team's week of shifts, lets people claim, swap and take time off, and keeps the clock and the cost of every hour.
+Part of Oneway OS, as a module of Business OS.
+Where it runs In Oneway OS, in a web browser on a computer or a phone.
+Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
+Made by Oneway Technologies LLC, New York.
+
 The week, built and covered.
 Talk to us Business OS
 
@@ -2695,6 +2854,7 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
+Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
 
 ---
 
@@ -2809,6 +2969,17 @@ The crew and its licenses.
 Service companies
 Technicians and their certifications.
 
+At a glance
+
+Oneway Team, in facts.
+
+What it is Oneway Team keeps who works at your business, what each of them may see and do, and every permit and license before it lapses.
+Part of Oneway OS, as a module of Business OS.
+Where it runs In Oneway OS, in a web browser on a computer or a phone.
+Price Part of Business OS: $330 a month for one Center, set up by contact. Oneway OS alone is free.
+Status In the Closed Selective Server Beta, by invitation, in New York City and Long Island.
+Made by Oneway Technologies LLC, New York.
+
 The right people, with the right access.
 Talk to us Business OS
 
@@ -2834,4 +3005,5 @@ Data Deletion
 Corporate Charter
 
 2027, Oneway Technologies LLC
+Oneway, the Oneway App and Oneway OS are made only by Oneway Technologies LLC, of New York. We are not affiliated with oneway.tools, with the Oneway retail and self-checkout software at tryoneway.com, with the One Way services app, or with any other product that uses the name Oneway.
 
